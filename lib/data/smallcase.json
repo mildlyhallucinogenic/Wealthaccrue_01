@@ -1,0 +1,108 @@
+{
+    "_id": "5704fb528cedad2432b3ca56",
+    "rationale": "<p>Growth companies experiencing positive earnings growth and having a reasonable margin of safety, while growing at a rate faster than the overall economy</p><ul><li>Generally, growth companies have a lot of investment opportunities to reinvest their earnings and not pay dividends. Fast growing business and rising earnings allow them to command high valuations</li><li>But, everything has a fair price and irrespective of the quality of the product, one should never overpay. This rule is applicable in the case of growth companies as well</li><li>Such companies are good investment opportunities, however because of their high valuations, it is difficult to judge whether they are fairly priced</li><li>This smallcase is a collection of companies experiencing earnings growth and, witnessing margin improvement.</li><li>In addition, only the companies experiencing increasing return on capital, and available at justifiable valuations are selected</li></ul><p>You can access the asset allocation version of this smallcase with better risk-adjusted returns <a href=\"https://www.smallcase.com/smallcase/growth-at-a-fair-price-asset-allocation-version-SCMO_0042\" rel=\"noopener noreferrer\" target=\"_blank\">here</a></p>",
+    "scid": "SCMO_0003",
+    "info": {
+      "type": "Model-based",
+      "name": "Growth at a Fair Price",
+      "shortDescription": "High growth companies that are available at fair valuations ",
+      "created": "2014-03-03T00:00:00.000Z",
+      "nextUpdate": "2022-06-15T15:26:07.741Z",
+      "blogURL": null,
+      "uploaded": "2016-04-04T00:00:00.000Z",
+      "rebalanceSchedule": "quarterly",
+      "lastRebalanced": "2022-03-15T00:00:00.000Z",
+      "publisherName": "Windmill Capital",
+      "imageUrl": "https://assets.smallcase.com/images/smallcases/200/SCMO_0003.png"
+    },
+    "stats": {
+      "returns": {
+        "daily": 0.001956461309836159,
+        "weekly": 0.028061737963810795,
+        "monthly": -0.026367778504427116,
+        "quarterly": 0.05789315240186933,
+        "halfyearly": -0.10007154401502782,
+        "yearly": 0.05992957422918577,
+        "1": 0.7536586219958833,
+        "fiveYear": 0.7536586219958833,
+        "sinceInception": 11.77940815240734,
+        "sinceLaunch": 0
+      },
+      "indexValue": 1277.940815240734,
+      "unadjustedIndex": 1277.940815240734,
+      "lastCloseIndex": 1277.940815240734,
+      "divReturns": 6.404654814880039,
+      "minInvestAmount": 19201,
+      "ratios": {
+        "52wHigh": 1504.543466818663,
+        "52wLow": 1181.4113721121983,
+        "divYield": 2.6516409678001893,
+        "divYieldDifferential": 1.2416409678001894,
+        "largeCapPercentage": 0,
+        "midCapPercentage": 0,
+        "pb": 2.278874497151151,
+        "pbDiscount": -31.70913870442148,
+        "pe": 11.132188635925166,
+        "peDiscount": -50.99645159921089,
+        "ema": 1357.48797405257,
+        "lastCloseEma": 1359.275550654416,
+        "momentumRank": 962,
+        "risk": 1.5030317108901068,
+        "smallCapPercentage": 99.99999999999999,
+        "cagr": 0.15878910410450575,
+        "sharpe": 0.10868580299961916,
+        "momentum": -5.983682659084377,
+        "marketCapCategory": "Small cap",
+        "sharpeRatio": 1.3478833645464814,
+        "oneYearLiveHistory": true,
+        "riskLabel": "High Volatility",
+        "cagrDuration": "6Y",
+        "cagr1y": 0.059929574229185656,
+        "cagr3y": 0.7665163628990417,
+        "cagr5y": 0.5687874316216914
+      },
+      "minSipAmount": 5000,
+      "minInvestAmountOverridden": false,
+      "recommendedBuyAmount": 0,
+      "launchDateIndex": 100,
+      "systemCalculatedMIA": 19201
+    },
+    "version": 24,
+    "updates": [
+      {
+        "label": "Quarterly Update: Stocks Change",
+        "rationale": "As suggested by the model criteria used for this smallcase, stocks have been updated for the next quarter",
+        "date": "2022-03-15T00:00:00.000Z",
+        "version": 24,
+        "appliedToUsers": true,
+        "appliedToMofsl": false,
+        "skipped": false
+      },
+      {
+        "label": "Quarterly Update: Stocks Change",
+        "rationale": "As suggested by the model criteria used for this smallcase, stocks have been updated for the next quarter",
+        "date": "2021-12-15T00:00:00.000Z",
+        "version": 23,
+        "appliedToUsers": true,
+        "appliedToMofsl": false,
+        "skipped": false
+      },
+      {
+        "label": "Quarterly Update: Stocks Change",
+        "rationale": "As suggested by the model criteria used for this smallcase, stocks have been updated for the next quarter",
+        "date": "2021-09-15T00:00:00.000Z",
+        "version": 22,
+        "appliedToUsers": true,
+        "appliedToMofsl": false,
+        "skipped": false
+      }
+  
+    ],
+    "benchmark": {
+      "id": ".NIFMDCP100",
+      "message": "As this smallcase mainly consists of mid cap stocks",
+      "index": ".NIFSMCP100",
+      "msg": "Compare with 251st - 350th market cap stocks",
+      "benchmarkLabel": "Equity Smallcap"
+    }
+}

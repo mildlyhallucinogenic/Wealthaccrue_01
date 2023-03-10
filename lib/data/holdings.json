@@ -1,0 +1,6032 @@
+{
+    "success": true,
+    "errors": null,
+    "data": {
+      "smallcases": {
+        "public": [
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Fri Jun 14 2019",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5d03100a1933b43afff5348f?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 17462.7,
+              "totalReturns": 3565.250000000001,
+              "currentReturns": 3189.9500000000007
+            },
+            "constituents": [
+              {
+                "ticker": "HDFCBANK",
+                "shares": 1
+              },
+              {
+                "ticker": "HINDUNILVR",
+                "shares": 1
+              },
+              {
+                "ticker": "KOTAKBANK",
+                "shares": 2
+              },
+              {
+                "ticker": "COLPAL",
+                "shares": 2
+              },
+              {
+                "ticker": "WIPRO",
+                "shares": 6
+              },
+              {
+                "ticker": "RELIANCE",
+                "shares": 2
+              }
+            ]
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Tue Jun 18 2019",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5d08560a9b5d9d1a57ec6dc2?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 17462.7,
+              "totalReturns": -1286.0499999999993,
+              "currentReturns": -1451.5499999999993
+            },
+            "constituents": [
+              {
+                "ticker": "HDFCBANK",
+                "shares": 1
+              },
+              {
+                "ticker": "HINDUNILVR",
+                "shares": 1
+              },
+              {
+                "ticker": "KOTAKBANK",
+                "shares": 2
+              },
+              {
+                "ticker": "COLPAL",
+                "shares": 2
+              },
+              {
+                "ticker": "WIPRO",
+                "shares": 6
+              },
+              {
+                "ticker": "RELIANCE",
+                "shares": 2
+              }
+            ]
+          },
+          {
+            "scid": "5d0c90d81a05817206eae189",
+            "name": "Test 31",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5d0c90e71a05817206eae18c?",
+            "shortDescription": "Checking",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5d0c90d81a05817206eae189.png",
+            "stats": {
+              "currentValue": 303.12,
+              "totalReturns": 63.81999999999999,
+              "currentReturns": 63.81999999999999
+            },
+            "constituents": [
+              {
+                "ticker": "ICICINIFTY",
+                "shares": 1
+              },
+              {
+                "ticker": "ICICIB22",
+                "shares": 3
+              }
+            ]
+          },
+          {
+            "scid": "5d81fdb388ef9b63001ebf7c",
+            "name": "New smallcase",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5d81fdb888ef9b63001ebf7f?",
+            "shortDescription": "nvnv",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5d81fdb388ef9b63001ebf7c.png",
+            "stats": {
+              "currentValue": 170.02,
+              "totalReturns": 105.34000000000003,
+              "currentReturns": 61.48000000000002
+            },
+            "constituents": [
+              {
+                "ticker": "ICICINV20",
+                "shares": 2
+              }
+            ]
+          },
+          {
+            "scid": "5d8e2d7f88bd376181bd77fb",
+            "name": "test",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5d8e2d841446386d96c48929?",
+            "shortDescription": "test",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5d8e2d7f88bd376181bd77fb.png",
+            "stats": {
+              "currentValue": 65.09,
+              "totalReturns": 17.940000000000005,
+              "currentReturns": 17.940000000000005
+            },
+            "constituents": [
+              {
+                "ticker": "MOM100",
+                "shares": 1
+              },
+              {
+                "ticker": "ICICINXT50",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "SCET_0005",
+            "name": "Equity & Gold",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5e28760b14b00f50ace50eea?",
+            "shortDescription": "Wealth allocation between Equities & Gold using ETFs",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/SCET_0005.png",
+            "stats": {
+              "currentValue": 1020,
+              "totalReturns": 86.94000000000005,
+              "currentReturns": 86.94000000000005
+            },
+            "constituents": [
+              {
+                "ticker": "GOLDBEES",
+                "shares": 8
+              },
+              {
+                "ticker": "NIFTYBEES",
+                "shares": 4
+              }
+            ]
+          },
+          {
+            "scid": "5ec5538ef08efd38a59caa6c",
+            "name": "Sc_amo_app",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5ec553a1e82f136281a417e6?",
+            "shortDescription": "Qa",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5ec5538ef08efd38a59caa6c.png",
+            "stats": {
+              "currentValue": 182.25,
+              "totalReturns": -33.79999999999999,
+              "currentReturns": -39.94999999999999
+            },
+            "constituents": [
+              {
+                "ticker": "IDEA",
+                "shares": 12
+              },
+              {
+                "ticker": "SJVN",
+                "shares": 3
+              }
+            ]
+          },
+          {
+            "scid": "5ec6a150b7c0b70d08d06938",
+            "name": "teest_non-eq",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5ec6a155b7c0b70d08d0693c?",
+            "shortDescription": "qwewe",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5ec6a150b7c0b70d08d06938.png",
+            "stats": {
+              "currentValue": 1.75,
+              "totalReturns": 0.44999999999999996,
+              "currentReturns": 0.44999999999999996
+            },
+            "constituents": [
+              {
+                "ticker": "UNITECH",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "5ec6b22c25e76c68db1cd39e",
+            "name": "AMO_test",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5ec6b24cb7c0b70d08d06cc2?",
+            "shortDescription": "AMO_test",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5ec6b22c25e76c68db1cd39e.png",
+            "stats": {
+              "currentValue": 248,
+              "totalReturns": 236.9,
+              "currentReturns": 236.9
+            },
+            "constituents": [
+              {
+                "ticker": "IDEA",
+                "shares": 1
+              },
+              {
+                "ticker": "TTML",
+                "shares": 2
+              }
+            ]
+          },
+          {
+            "scid": "5ec76d6fb7c0b70d08d08fee",
+            "name": "New smallcase May 22 2020",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5ec76ea5a29d7702a68feb76?",
+            "shortDescription": "non eq",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5ec76d6fb7c0b70d08d08fee.png",
+            "stats": {
+              "currentValue": 14.7,
+              "totalReturns": 12.399999999999999,
+              "currentReturns": 12.399999999999999
+            },
+            "constituents": [
+              {
+                "ticker": "VIDEOIND",
+                "shares": 2
+              }
+            ]
+          },
+          {
+            "scid": "5ef4210f7072303def14d905",
+            "name": "Test_25/06morning",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5ef421249d887f34f3bbbd6e?",
+            "shortDescription": "Test_25/06morning",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5ef4210f7072303def14d905.png",
+            "stats": {
+              "currentValue": 49.449999999999996,
+              "totalReturns": 16.15,
+              "currentReturns": 16.15
+            },
+            "constituents": [
+              {
+                "ticker": "DHANBANK",
+                "shares": 1
+              },
+              {
+                "ticker": "MTNL",
+                "shares": 2
+              }
+            ]
+          },
+          {
+            "scid": "5ef983661f7eb1540eaab5be",
+            "name": "New smallcase - june 29",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5ef98370cf209820070b9c8b?",
+            "shortDescription": "BB",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5ef983661f7eb1540eaab5be.png",
+            "stats": {
+              "currentValue": 24.65,
+              "totalReturns": 1.25,
+              "currentReturns": 1.25
+            },
+            "constituents": [
+              {
+                "ticker": "IDEA",
+                "shares": 1
+              },
+              {
+                "ticker": "IOB",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "5ef9e96acf209820070bc312",
+            "name": "AMO_Test29/06",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5ef9e97625906f6bf9f42f5e?",
+            "shortDescription": "AMO_Test29/06",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5ef9e96acf209820070bc312.png",
+            "stats": {
+              "currentValue": 19.15,
+              "totalReturns": 9.95,
+              "currentReturns": 9.95
+            },
+            "constituents": [
+              {
+                "ticker": "MTNL",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "5f0c6a9f5cc59f3ba483589c",
+            "name": "AMO_Web13/07",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5f0c6ab986e2f83ccfea05ad?",
+            "shortDescription": "AMO_Web13/07",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5f0c6a9f5cc59f3ba483589c.png",
+            "stats": {
+              "currentValue": 5963.35,
+              "totalReturns": 951.1499999999996,
+              "currentReturns": 951.1499999999996
+            },
+            "constituents": [
+              {
+                "ticker": "SUZLON",
+                "shares": 426
+              },
+              {
+                "ticker": "MTNL",
+                "shares": 139
+              }
+            ]
+          },
+          {
+            "scid": "5f0c78d486e2f83ccfea075a",
+            "name": "Sc app amo",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5f0c79005cc59f3ba4835a7b?",
+            "shortDescription": "Qa",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5f0c78d486e2f83ccfea075a.png",
+            "stats": {
+              "currentValue": 11.15,
+              "totalReturns": -2.299999999999999,
+              "currentReturns": -2.299999999999999
+            },
+            "constituents": [
+              {
+                "ticker": "DHANBANK",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "5f22f517de138633ce6546a5",
+            "name": "AMO_Web30/07",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5f22f525373fb6347bfdafd8?",
+            "shortDescription": "AMO_Web30/07",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5f22f517de138633ce6546a5.png",
+            "stats": {
+              "currentValue": 24,
+              "totalReturns": 6.850000000000001,
+              "currentReturns": 6.850000000000001
+            },
+            "constituents": [
+              {
+                "ticker": "IDEA",
+                "shares": 1
+              },
+              {
+                "ticker": "SUZLON",
+                "shares": 2
+              }
+            ]
+          },
+          {
+            "scid": "5f2c3a1b6678954954f25c2a",
+            "name": "New smallcase AMO",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5f2c3a212d64522374f4a329?",
+            "shortDescription": "AMO",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5f2c3a1b6678954954f25c2a.png",
+            "stats": {
+              "currentValue": 19.65,
+              "totalReturns": 2.299999999999999,
+              "currentReturns": -1.3500000000000014
+            },
+            "constituents": [
+              {
+                "ticker": "IDEA",
+                "shares": 1
+              },
+              {
+                "ticker": "DHANBANK",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "5f2cdee86678954954f274d9",
+            "name": "TEST ASM and GSM",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5f2cdef16678954954f274dc?",
+            "shortDescription": "TEST ASM AND GSM",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5f2cdee86678954954f274d9.png",
+            "stats": {
+              "currentValue": 10.95,
+              "totalReturns": -6.450000000000001,
+              "currentReturns": -6.850000000000001
+            },
+            "constituents": [
+              {
+                "ticker": "ALANKIT",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "5f3592f15b4c6483f3ccd2b9",
+            "name": "New smallcase - Aug 14",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5f35930d4835b87723bd0a1a?",
+            "shortDescription": "amo",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5f3592f15b4c6483f3ccd2b9.png",
+            "stats": {
+              "currentValue": 8.5,
+              "totalReturns": -0.5500000000000007,
+              "currentReturns": -0.5500000000000007
+            },
+            "constituents": [
+              {
+                "ticker": "IDEA",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "5f36762b5b4c6483f3cd05e5",
+            "name": "Sc app amo",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5f3676405b4c6483f3cd05f0?",
+            "shortDescription": "Qa\n",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5f36762b5b4c6483f3cd05e5.png",
+            "stats": {
+              "currentValue": 19.65,
+              "totalReturns": -2.1000000000000014,
+              "currentReturns": -2.1000000000000014
+            },
+            "constituents": [
+              {
+                "ticker": "DHANBANK",
+                "shares": 1
+              },
+              {
+                "ticker": "IDEA",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "5f365ffa5b4c6483f3cd026e",
+            "name": "demo",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5f36b9562a7a10f4b01de507?",
+            "shortDescription": "demo",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5f365ffa5b4c6483f3cd026e.png",
+            "stats": {
+              "currentValue": 44.75,
+              "totalReturns": 8.950000000000003,
+              "currentReturns": 8.950000000000003
+            },
+            "constituents": [
+              {
+                "ticker": "IDEA",
+                "shares": 2
+              },
+              {
+                "ticker": "MOM100",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "5f36c7085d77b7d1a797402f",
+            "name": "TEST AMO 14th Aug 2020",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5f36c72b7e30cdfa317c4194?",
+            "shortDescription": "TEST AMO 14th Aug 2020",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5f36c7085d77b7d1a797402f.png",
+            "stats": {
+              "currentValue": 47.3,
+              "totalReturns": -8.549999999999997,
+              "currentReturns": -8.549999999999997
+            },
+            "constituents": [
+              {
+                "ticker": "YESBANK",
+                "shares": 2
+              },
+              {
+                "ticker": "DHANBANK",
+                "shares": 2
+              }
+            ]
+          },
+          {
+            "scid": "5f606992147ef945ec060ae9",
+            "name": "Series Test Smallcase",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5f60699a147ef945ec060aed?",
+            "shortDescription": "Test",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5f606992147ef945ec060ae9.png",
+            "stats": {
+              "currentValue": 27.75,
+              "totalReturns": 62.750000000000014,
+              "currentReturns": 9.470000000000002
+            },
+            "constituents": [
+              {
+                "ticker": "MOM100",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "5f60b7df72cdc14121940497",
+            "name": "Sc app 4.0",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5f60b891295a1b2dc25c2646?",
+            "shortDescription": "Qa",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5f60b7df72cdc14121940497.png",
+            "stats": {
+              "currentValue": 26.75,
+              "totalReturns": 7.35,
+              "currentReturns": 3.5
+            },
+            "constituents": [
+              {
+                "ticker": "SJVN",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "5f69b83fa4450b1e6a2babab",
+            "name": "test-BSE",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5f69b85203e69c050b0553f7?",
+            "shortDescription": "test-BSE",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5f69b83fa4450b1e6a2babab.png",
+            "stats": {
+              "currentValue": 382.5,
+              "totalReturns": 364.55,
+              "currentReturns": 364.55
+            },
+            "constituents": [
+              {
+                "ticker": "SUZLON",
+                "shares": 3
+              },
+              {
+                "ticker": "TTML",
+                "shares": 3
+              }
+            ]
+          },
+          {
+            "scid": "5f7dfd1b0e1b6ddf3c47c3fe",
+            "name": "AMO_07/10",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5f7dfd22d6ac7b38f18d6b68?",
+            "shortDescription": "AMO_07/10",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5f7dfd1b0e1b6ddf3c47c3fe.png",
+            "stats": {
+              "currentValue": 31.75,
+              "totalReturns": 14.149999999999999,
+              "currentReturns": 14.149999999999999
+            },
+            "constituents": [
+              {
+                "ticker": "SUZLON",
+                "shares": 3
+              },
+              {
+                "ticker": "IDEA",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "5f83e753af9e9e3ce6967b79",
+            "name": "teemp",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5f83e758cb6d440d8648e1d3?",
+            "shortDescription": "qwe",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5f83e753af9e9e3ce6967b79.png",
+            "stats": {
+              "currentValue": 36.25,
+              "totalReturns": 9.669999999999998,
+              "currentReturns": 9.669999999999998
+            },
+            "constituents": [
+              {
+                "ticker": "IDEA",
+                "shares": 1
+              },
+              {
+                "ticker": "MOM100",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "5f893e76f895516be04e1b5e",
+            "name": "New smallcase 16 Oct 20",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5f893f7e3a5a0c0a7c18cfa1?",
+            "shortDescription": "test",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5f893e76f895516be04e1b5e.png",
+            "stats": {
+              "currentValue": 20.5,
+              "totalReturns": 1.6999999999999993,
+              "currentReturns": 1.6999999999999993
+            },
+            "constituents": [
+              {
+                "ticker": "IDEA",
+                "shares": 2
+              },
+              {
+                "ticker": "UNITECH",
+                "shares": 2
+              }
+            ]
+          },
+          {
+            "scid": "5f8e383b6721662c1892acb3",
+            "name": "New smallcase 20 oct 20 pre market",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5f8e387998bdfe823be1d0a2?",
+            "shortDescription": "amo",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5f8e383b6721662c1892acb3.png",
+            "stats": {
+              "currentValue": 44.449999999999996,
+              "totalReturns": -1.8000000000000043,
+              "currentReturns": -1.8000000000000043
+            },
+            "constituents": [
+              {
+                "ticker": "IDEA",
+                "shares": 3
+              },
+              {
+                "ticker": "RPOWER",
+                "shares": 1
+              },
+              {
+                "ticker": "RCOM",
+                "shares": 3
+              }
+            ]
+          },
+          {
+            "scid": "5f8eabfa5f15e51222924684",
+            "name": "Test smallcase 20102020 5",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5f8eac025f15e51222924688?",
+            "shortDescription": "test",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5f8eabfa5f15e51222924684.png",
+            "stats": {
+              "currentValue": 36.25,
+              "totalReturns": 9.68,
+              "currentReturns": 9.68
+            },
+            "constituents": [
+              {
+                "ticker": "MOM100",
+                "shares": 1
+              },
+              {
+                "ticker": "IDEA",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "5f8fb6077b2800ff613eeb5b",
+            "name": "Test smallcase 21102020 3",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5f8fb61eaa6192de731106fa?",
+            "shortDescription": "test",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5f8fb6077b2800ff613eeb5b.png",
+            "stats": {
+              "currentValue": 134.25,
+              "totalReturns": 22.439999999999998,
+              "currentReturns": 22.439999999999998
+            },
+            "constituents": [
+              {
+                "ticker": "IDEA",
+                "shares": 6
+              },
+              {
+                "ticker": "MOM100",
+                "shares": 3
+              }
+            ]
+          },
+          {
+            "scid": "5f91a426c16a5750406e0fc1",
+            "name": "Sc app amo",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5f91a43e7b2800ff613f50d9?",
+            "shortDescription": "Amo",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5f91a426c16a5750406e0fc1.png",
+            "stats": {
+              "currentValue": 64.09,
+              "totalReturns": 16.050000000000004,
+              "currentReturns": 12.700000000000003
+            },
+            "constituents": [
+              {
+                "ticker": "SJVN",
+                "shares": 1
+              },
+              {
+                "ticker": "ICICINXT50",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "5f92b0727b2800ff613f8038",
+            "name": "test 23102020 2",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5f92b095c16a5750406e3e08?",
+            "shortDescription": "test",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5f92b0727b2800ff613f8038.png",
+            "stats": {
+              "currentValue": 8.5,
+              "totalReturns": -0.5500000000000007,
+              "currentReturns": -0.5500000000000007
+            },
+            "constituents": [
+              {
+                "ticker": "IDEA",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "5f92c3517b2800ff613f828e",
+            "name": "test smallcase 23102020 5",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5f92c35a7b2800ff613f8296?",
+            "shortDescription": "test",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5f92c3517b2800ff613f828e.png",
+            "stats": {
+              "currentValue": 36.25,
+              "totalReturns": 8.95,
+              "currentReturns": 8.95
+            },
+            "constituents": [
+              {
+                "ticker": "IDEA",
+                "shares": 1
+              },
+              {
+                "ticker": "MOM100",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "5fd7316515a3bdb86c819002",
+            "name": "SC TT",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/5fd731c81c866720452fd45a?",
+            "shortDescription": "3 stocks 60 rupees",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5fd7316515a3bdb86c819002.png",
+            "stats": {
+              "currentValue": 57.25,
+              "totalReturns": -3.1700000000000017,
+              "currentReturns": -3.1700000000000017
+            },
+            "constituents": [
+              {
+                "ticker": "YESBANK",
+                "shares": 1
+              },
+              {
+                "ticker": "IDEA",
+                "shares": 2
+              },
+              {
+                "ticker": "MOM100",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "601a42703a05a9607cb21a2a",
+            "name": "Test ksip 03022021 stag 1",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/601a42e353b29746d66fc0d0?",
+            "shortDescription": "asdfsadf",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/601a42703a05a9607cb21a2a.png",
+            "stats": {
+              "currentValue": 21,
+              "totalReturns": -7.5,
+              "currentReturns": -7.5
+            },
+            "constituents": [
+              {
+                "ticker": "YESBANK",
+                "shares": 1
+              },
+              {
+                "ticker": "IDEA",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "5ffe005fc4e52b8754449f45",
+            "name": "Sc_app test",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6020f94e7cc5440bfbf50722?",
+            "shortDescription": "Qa",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/5ffe005fc4e52b8754449f45.png",
+            "stats": {
+              "currentValue": 22.3,
+              "totalReturns": -12.199999999999996,
+              "currentReturns": -6.049999999999994
+            },
+            "constituents": [
+              {
+                "ticker": "DHANBANK",
+                "shares": 2
+              }
+            ]
+          },
+          {
+            "scid": "60216e8aad1ca8923fd630d2",
+            "name": "AMO_8Feb",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/60216e91ad1ca8923fd630d5?",
+            "shortDescription": "AMO_8Feb",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/60216e8aad1ca8923fd630d2.png",
+            "stats": {
+              "currentValue": 31.85,
+              "totalReturns": 17.8,
+              "currentReturns": 17.8
+            },
+            "constituents": [
+              {
+                "ticker": "SUZLON",
+                "shares": 1
+              },
+              {
+                "ticker": "RPOWER",
+                "shares": 2
+              }
+            ]
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Wed Feb 10 2021",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/60234e8bb3eeffa39dcfebf2?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 8.5,
+              "totalReturns": -3.4000000000000004,
+              "currentReturns": -3.4000000000000004
+            },
+            "constituents": [
+              {
+                "ticker": "IDEA",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "6041c521279a1ba45c63cfc9",
+            "name": "New smallcase",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6041c5397df9c1bed3c8b0c7?",
+            "shortDescription": "New smallcase",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/6041c521279a1ba45c63cfc9.png",
+            "stats": {
+              "currentValue": 119.75,
+              "totalReturns": 104.4,
+              "currentReturns": 105.45
+            },
+            "constituents": [
+              {
+                "ticker": "TTML",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "6059986266c547395751102f",
+            "name": "Test ksip 23032021 prod 1",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/605998ea832ac170757de46d?",
+            "shortDescription": "asdf",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/6059986266c547395751102f.png",
+            "stats": {
+              "currentValue": 21,
+              "totalReturns": -4.049999999999997,
+              "currentReturns": -4.049999999999997
+            },
+            "constituents": [
+              {
+                "ticker": "YESBANK",
+                "shares": 1
+              },
+              {
+                "ticker": "IDEA",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "60599a2eb7b0068b9668a0c2",
+            "name": "Test ksip 23032021 prod 2",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/60599a3bb7b0068b9668a0d5?",
+            "shortDescription": "asdf",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/60599a2eb7b0068b9668a0c2.png",
+            "stats": {
+              "currentValue": 21,
+              "totalReturns": -4.049999999999997,
+              "currentReturns": -4.049999999999997
+            },
+            "constituents": [
+              {
+                "ticker": "IDEA",
+                "shares": 1
+              },
+              {
+                "ticker": "YESBANK",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "6059e798832ac170757e11b5",
+            "name": "Test ksip 23032021 prod 1",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6059e79f832ac170757e11b8?",
+            "shortDescription": "asdf",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/6059e798832ac170757e11b5.png",
+            "stats": {
+              "currentValue": 21,
+              "totalReturns": -3.9499999999999993,
+              "currentReturns": -3.9499999999999993
+            },
+            "constituents": [
+              {
+                "ticker": "IDEA",
+                "shares": 1
+              },
+              {
+                "ticker": "YESBANK",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "605af5c266c5473957518648",
+            "name": "Test ksip 24032021 dev 1",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/605af5e5832ac170757e5a09?",
+            "shortDescription": "asdf",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/605af5c266c5473957518648.png",
+            "stats": {
+              "currentValue": 21,
+              "totalReturns": -3.700000000000003,
+              "currentReturns": -3.700000000000003
+            },
+            "constituents": [
+              {
+                "ticker": "YESBANK",
+                "shares": 1
+              },
+              {
+                "ticker": "IDEA",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "605b123c66c5473957519c3f",
+            "name": "Test ksip 24032021 prod 3",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/605b1244832ac170757e6fe0?",
+            "shortDescription": "asdf",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/605b123c66c5473957519c3f.png",
+            "stats": {
+              "currentValue": 29.5,
+              "totalReturns": -4.649999999999999,
+              "currentReturns": -4.649999999999999
+            },
+            "constituents": [
+              {
+                "ticker": "YESBANK",
+                "shares": 1
+              },
+              {
+                "ticker": "IDEA",
+                "shares": 2
+              }
+            ]
+          },
+          {
+            "scid": "605b12b3b7b0068b96692b12",
+            "name": "Test ksip 24032021 prod 4",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/605b12b9b7b0068b96692b16?",
+            "shortDescription": "asdf",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/605b12b3b7b0068b96692b12.png",
+            "stats": {
+              "currentValue": 42,
+              "totalReturns": -6.799999999999997,
+              "currentReturns": -6.799999999999997
+            },
+            "constituents": [
+              {
+                "ticker": "YESBANK",
+                "shares": 2
+              },
+              {
+                "ticker": "IDEA",
+                "shares": 2
+              }
+            ]
+          },
+          {
+            "scid": "605c3c16b7b0068b96699e85",
+            "name": "Test ksip 25032021 prod 2",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/605c3c1c832ac170757ee54e?",
+            "shortDescription": "asdf",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/605c3c16b7b0068b96699e85.png",
+            "stats": {
+              "currentValue": 42,
+              "totalReturns": -4.5,
+              "currentReturns": -4.5
+            },
+            "constituents": [
+              {
+                "ticker": "YESBANK",
+                "shares": 2
+              },
+              {
+                "ticker": "IDEA",
+                "shares": 2
+              }
+            ]
+          },
+          {
+            "scid": "605c3f15b7b0068b9669a0ce",
+            "name": "Test ksip 25032021 prod 4",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/605c3f1db7b0068b9669a0d5?",
+            "shortDescription": "asdf",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/605c3f15b7b0068b9669a0ce.png",
+            "stats": {
+              "currentValue": 1537.3200000000002,
+              "totalReturns": -83.44999999999982,
+              "currentReturns": -83.44999999999982
+            },
+            "constituents": [
+              {
+                "ticker": "YESBANK",
+                "shares": 23
+              },
+              {
+                "ticker": "IDEA",
+                "shares": 46
+              },
+              {
+                "ticker": "ICICINXT50",
+                "shares": 23
+              }
+            ]
+          },
+          {
+            "scid": "605c4834832ac170757eed9a",
+            "name": "Test ksip 25032021 prod 6",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/605c483966c5473957521770?",
+            "shortDescription": "asdf",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/605c4834832ac170757eed9a.png",
+            "stats": {
+              "currentValue": 248.25,
+              "totalReturns": -8.500000000000034,
+              "currentReturns": -13.150000000000034
+            },
+            "constituents": [
+              {
+                "ticker": "YESBANK",
+                "shares": 8
+              },
+              {
+                "ticker": "IDEA",
+                "shares": 8
+              },
+              {
+                "ticker": "SJVN",
+                "shares": 3
+              }
+            ]
+          },
+          {
+            "scid": "605c578566c5473957522125",
+            "name": "Test ksip 25032021 prod 20",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/605c578a66c5473957522129?",
+            "shortDescription": "asdf",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/605c578566c5473957522125.png",
+            "stats": {
+              "currentValue": 147.5,
+              "totalReturns": -20.999999999999943,
+              "currentReturns": -20.999999999999943
+            },
+            "constituents": [
+              {
+                "ticker": "YESBANK",
+                "shares": 5
+              },
+              {
+                "ticker": "IDEA",
+                "shares": 10
+              }
+            ]
+          },
+          {
+            "scid": "605c57c4b7b0068b9669b0b2",
+            "name": "Test ksip 25032021 prod 30",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/605c57c966c547395752216a?",
+            "shortDescription": "asdf",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/605c57c4b7b0068b9669b0b2.png",
+            "stats": {
+              "currentValue": 118,
+              "totalReturns": -12,
+              "currentReturns": -12
+            },
+            "constituents": [
+              {
+                "ticker": "YESBANK",
+                "shares": 4
+              },
+              {
+                "ticker": "IDEA",
+                "shares": 8
+              }
+            ]
+          },
+          {
+            "scid": "605c57f5832ac170757ef749",
+            "name": "asdfasdf 234234234",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/605c57f8b7b0068b9669b0dc?",
+            "shortDescription": "sdf",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/605c57f5832ac170757ef749.png",
+            "stats": {
+              "currentValue": 59,
+              "totalReturns": 2.999999999999993,
+              "currentReturns": 2.999999999999993
+            },
+            "constituents": [
+              {
+                "ticker": "YESBANK",
+                "shares": 2
+              },
+              {
+                "ticker": "IDEA",
+                "shares": 4
+              }
+            ]
+          },
+          {
+            "scid": "605d6a6493b5335f4c2c38e6",
+            "name": "Test ksip 26032021 prod 1",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/605d6a6893b5335f4c2c38ea?",
+            "shortDescription": "asf",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/605d6a6493b5335f4c2c38e6.png",
+            "stats": {
+              "currentValue": 523.5,
+              "totalReturns": -53.34999999999991,
+              "currentReturns": -53.34999999999991
+            },
+            "constituents": [
+              {
+                "ticker": "YESBANK",
+                "shares": 31
+              },
+              {
+                "ticker": "IDEA",
+                "shares": 16
+              }
+            ]
+          },
+          {
+            "scid": "608ad31aa364ec57be6c40e2",
+            "name": "Sc app4.7v",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/608ad32c16dfa03d6147556d?",
+            "shortDescription": "Qa",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/608ad31aa364ec57be6c40e2.png",
+            "stats": {
+              "currentValue": 28.15,
+              "totalReturns": -2.6000000000000014,
+              "currentReturns": -2.6000000000000014
+            },
+            "constituents": [
+              {
+                "ticker": "DHANBANK",
+                "shares": 1
+              },
+              {
+                "ticker": "IDEA",
+                "shares": 2
+              }
+            ]
+          },
+          {
+            "scid": "60921b7e95eb37b2fa5769a1",
+            "name": "Test ksip 05052021 prod 1",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/60921b8f95eb37b2fa5769c3?",
+            "shortDescription": "asdf",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/60921b7e95eb37b2fa5769a1.png",
+            "stats": {
+              "currentValue": 88.5,
+              "totalReturns": -17.549999999999997,
+              "currentReturns": -17.549999999999997
+            },
+            "constituents": [
+              {
+                "ticker": "YESBANK",
+                "shares": 3
+              },
+              {
+                "ticker": "IDEA",
+                "shares": 6
+              }
+            ]
+          },
+          {
+            "scid": "609293aecc60dae3a2fd5d5d",
+            "name": "AMO Test Order",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/609293c63bf8c0eca4e9c9b9?",
+            "shortDescription": "TEST",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/609293aecc60dae3a2fd5d5d.png",
+            "stats": {
+              "currentValue": 168.66,
+              "totalReturns": 33.41999999999999,
+              "currentReturns": 33.41999999999999
+            },
+            "constituents": [
+              {
+                "ticker": "CPSEETF",
+                "shares": 4
+              },
+              {
+                "ticker": "ICICINXT50",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "60b8cbce149ad126d4412b4a",
+            "name": "Sc app 4.8v",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/60b8cbda2c93ed26c4e644dd?",
+            "shortDescription": "Test",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/60b8cbce149ad126d4412b4a.png",
+            "stats": {
+              "currentValue": 52.25,
+              "totalReturns": -5.200000000000001,
+              "currentReturns": -6.350000000000001
+            },
+            "constituents": [
+              {
+                "ticker": "IDEA",
+                "shares": 3
+              },
+              {
+                "ticker": "SJVN",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "60f660c7ab7742dcaf9533d8",
+            "name": "New smallcase",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/60f660cac7a3b65eb4c4aa86?",
+            "shortDescription": "qwwee",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/60f660c7ab7742dcaf9533d8.png",
+            "stats": {
+              "currentValue": 46.1,
+              "totalReturns": 0.8500000000000014,
+              "currentReturns": 0.8500000000000014
+            },
+            "constituents": [
+              {
+                "ticker": "ABAN",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "ICIET_0001",
+            "name": "ICICI Prudential Diversified",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/60f903aa4854ba93ebfad14d?",
+            "shortDescription": "Diversified basket of ICICI Prudential Mutual Fund ETFs for long term wealth creation",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ICIET_0001.png",
+            "stats": {
+              "currentValue": 2264.1600000000003,
+              "totalReturns": -50.22999999999929,
+              "currentReturns": -71.54999999999927
+            },
+            "constituents": [
+              {
+                "ticker": "ICICINXT50",
+                "shares": 7
+              },
+              {
+                "ticker": "ICICIBANKN",
+                "shares": 2
+              },
+              {
+                "ticker": "ICICIMCAP",
+                "shares": 2
+              },
+              {
+                "ticker": "ICICIGOLD",
+                "shares": 8
+              },
+              {
+                "ticker": "ICICINV20",
+                "shares": 4
+              },
+              {
+                "ticker": "ICICILOVOL",
+                "shares": 3
+              },
+              {
+                "ticker": "KOTAKGOLD",
+                "shares": 2
+              }
+            ]
+          },
+          {
+            "scid": "60f91d9f7560a5f7913b02d0",
+            "name": "Buy",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/60f91e112ce57e44188db032?",
+            "shortDescription": "Buy",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/60f91d9f7560a5f7913b02d0.png",
+            "stats": {
+              "currentValue": 2475.95,
+              "totalReturns": 807.2999999999997,
+              "currentReturns": 807.2999999999997
+            },
+            "constituents": [
+              {
+                "ticker": "ADANIENT",
+                "shares": 1
+              },
+              {
+                "ticker": "TATAMOTORS",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "ICIET_0002",
+            "name": "ICICI Prudential Leaders",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6112261575bae35c5d36c847?",
+            "shortDescription": "Large cap focused ETFs for long term investing",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ICIET_0002.png",
+            "stats": {
+              "currentValue": 2337.75,
+              "totalReturns": -208.95999999999975,
+              "currentReturns": -208.52999999999975
+            },
+            "constituents": [
+              {
+                "ticker": "ICICINIFTY",
+                "shares": 4
+              },
+              {
+                "ticker": "ICICINXT50",
+                "shares": 13
+              },
+              {
+                "ticker": "ICICILOVOL",
+                "shares": 6
+              },
+              {
+                "ticker": "ICICINV20",
+                "shares": 5
+              }
+            ]
+          },
+          {
+            "scid": "611f39174e38808e8d049983",
+            "name": "New smallcase",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/611f391e9588b14f3695a720?",
+            "shortDescription": "sss",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/611f39174e38808e8d049983.png",
+            "stats": {
+              "currentValue": 222.2,
+              "totalReturns": -22.94000000000005,
+              "currentReturns": -27.733333333333377
+            },
+            "constituents": [
+              {
+                "ticker": "IRFC",
+                "shares": 11
+              }
+            ]
+          },
+          {
+            "scid": "611f80ed00322ca96b198b17",
+            "name": "test",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/611f80f8463a9c01278d92a6?",
+            "shortDescription": "test",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/611f80ed00322ca96b198b17.png",
+            "stats": {
+              "currentValue": 60.599999999999994,
+              "totalReturns": -8.610000000000007,
+              "currentReturns": -10.150000000000006
+            },
+            "constituents": [
+              {
+                "ticker": "IRFC",
+                "shares": 3
+              }
+            ]
+          },
+          {
+            "scid": "61239dfa5b86a7282c9aec3c",
+            "name": "AMO_23/08",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/61239e0a4b81472a10924266?",
+            "shortDescription": "AMO_23/08",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/61239dfa5b86a7282c9aec3c.png",
+            "stats": {
+              "currentValue": 11.15,
+              "totalReturns": -3.0999999999999996,
+              "currentReturns": -3.0999999999999996
+            },
+            "constituents": [
+              {
+                "ticker": "DHANBANK",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "6131c1378666dac1b02f2321",
+            "name": "New smallcase",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6131c145245711857ad4b79e?",
+            "shortDescription": "abc",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/6131c1378666dac1b02f2321.png",
+            "stats": {
+              "currentValue": 50,
+              "totalReturns": -0.8499999999999943,
+              "currentReturns": -0.8499999999999943
+            },
+            "constituents": [
+              {
+                "ticker": "YESBANK",
+                "shares": 4
+              }
+            ]
+          },
+          {
+            "scid": "613865fb09ada1f01de07ed0",
+            "name": "test",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/61386600c17bd9730b4d5308?",
+            "shortDescription": "test",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/613865fb09ada1f01de07ed0.png",
+            "stats": {
+              "currentValue": 160.75,
+              "totalReturns": -34.349999999999994,
+              "currentReturns": -34.349999999999994
+            },
+            "constituents": [
+              {
+                "ticker": "IDEA",
+                "shares": 5
+              },
+              {
+                "ticker": "PCJEWELLER",
+                "shares": 5
+              }
+            ]
+          },
+          {
+            "scid": "61519416778f6c10148afd29",
+            "name": "TEST AUTO SIP 20 Stocks",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/61519422778f6c10148afd30?",
+            "shortDescription": "TEST",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/61519416778f6c10148afd29.png",
+            "stats": {
+              "currentValue": 5618.8,
+              "totalReturns": -1525.6000000000008,
+              "currentReturns": -1567.000000000001
+            },
+            "constituents": [
+              {
+                "ticker": "DHANBANK",
+                "shares": 71
+              },
+              {
+                "ticker": "HATHWAY",
+                "shares": 71
+              },
+              {
+                "ticker": "SINTEX",
+                "shares": 1
+              },
+              {
+                "ticker": "SJVN",
+                "shares": 36
+              },
+              {
+                "ticker": "SOUTHBANK",
+                "shares": 71
+              },
+              {
+                "ticker": "IDEA",
+                "shares": 71
+              },
+              {
+                "ticker": "MOM100",
+                "shares": 36
+              },
+              {
+                "ticker": "YESBANK",
+                "shares": 36
+              },
+              {
+                "ticker": "GTLINFRA",
+                "shares": 1
+              },
+              {
+                "ticker": "FEL",
+                "shares": 1
+              },
+              {
+                "ticker": "IFCI",
+                "shares": 1
+              },
+              {
+                "ticker": "ZEELEARN",
+                "shares": 1
+              },
+              {
+                "ticker": "JPPOWER",
+                "shares": 1
+              },
+              {
+                "ticker": "BURNPUR",
+                "shares": 1
+              },
+              {
+                "ticker": "ANSALHSG",
+                "shares": 1
+              },
+              {
+                "ticker": "JISLJALEQS",
+                "shares": 1
+              },
+              {
+                "ticker": "VIKASECO",
+                "shares": 1
+              },
+              {
+                "ticker": "RPOWER",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "61a07dd2fe74fe4578ce0512",
+            "name": "New smallcase test",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/61a07ddb99ff9f2ca4c31409?",
+            "shortDescription": "test",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/61a07dd2fe74fe4578ce0512.png",
+            "stats": {
+              "currentValue": 105,
+              "totalReturns": -13.70000000000001,
+              "currentReturns": -12.900000000000006
+            },
+            "constituents": [
+              {
+                "ticker": "YESBANK",
+                "shares": 5
+              },
+              {
+                "ticker": "IDEA",
+                "shares": 5
+              }
+            ]
+          },
+          {
+            "scid": "61c404c3969a1d2c04c80da6",
+            "name": "test sip smallcase",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/61c404dc969a1d2c04c80dae?",
+            "shortDescription": "test sip smallcase",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/61c404c3969a1d2c04c80da6.png",
+            "stats": {
+              "currentValue": 23.7,
+              "totalReturns": -8.149999999999999,
+              "currentReturns": -8.149999999999999
+            },
+            "constituents": [
+              {
+                "ticker": "SOUTHBANK",
+                "shares": 2
+              },
+              {
+                "ticker": "IDEA",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "620f4a7573914ac6c5053dbe",
+            "name": "prodsiptest",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/620f4a8636270dadf6a19571?",
+            "shortDescription": "test",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/620f4a7573914ac6c5053dbe.png",
+            "stats": {
+              "currentValue": 20.25,
+              "totalReturns": -4.049999999999997,
+              "currentReturns": -4.049999999999997
+            },
+            "constituents": [
+              {
+                "ticker": "SUZLON",
+                "shares": 1
+              },
+              {
+                "ticker": "YESBANK",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "620f8d7afe0973dadfaac2fb",
+            "name": "TEst Create",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/620f8d84fe0973dadfaac2fe?",
+            "shortDescription": "TEST",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/620f8d7afe0973dadfaac2fb.png",
+            "stats": {
+              "currentValue": 65.09,
+              "totalReturns": -5.1299999999999955,
+              "currentReturns": -5.1299999999999955
+            },
+            "constituents": [
+              {
+                "ticker": "MOM100",
+                "shares": 1
+              },
+              {
+                "ticker": "ICICINXT50",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "62178d178abfa651075bfc5c",
+            "name": "New smallcase",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/62178d1e51a6b41a74d46193?",
+            "shortDescription": "test logs",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/62178d178abfa651075bfc5c.png",
+            "stats": {
+              "currentValue": 447.9,
+              "totalReturns": -37.10000000000002,
+              "currentReturns": -37.10000000000002
+            },
+            "constituents": [
+              {
+                "ticker": "CESC",
+                "shares": 3
+              },
+              {
+                "ticker": "YESBANK",
+                "shares": 18
+              }
+            ]
+          },
+          {
+            "scid": "6217bd5b6bfb9b510efc41ed",
+            "name": "testAMO",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6217bd646bfb9b510efc41f0?",
+            "shortDescription": "testAMO",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/6217bd5b6bfb9b510efc41ed.png",
+            "stats": {
+              "currentValue": 32.99,
+              "totalReturns": -4.229999999999997,
+              "currentReturns": -4.229999999999997
+            },
+            "constituents": [
+              {
+                "ticker": "DHANBANK",
+                "shares": 1
+              },
+              {
+                "ticker": "ICICI500",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "62186bbbc0390e4d8929612f",
+            "name": "gateway check",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/62186bc89a068787cf39a58a?",
+            "shortDescription": "test",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/62186bbbc0390e4d8929612f.png",
+            "stats": {
+              "currentValue": 32.5,
+              "totalReturns": -6.399999999999999,
+              "currentReturns": -6.399999999999999
+            },
+            "constituents": [
+              {
+                "ticker": "SUZLON",
+                "shares": 2
+              },
+              {
+                "ticker": "IDEA",
+                "shares": 2
+              }
+            ]
+          },
+          {
+            "scid": "6152f929778f6c10148b6995",
+            "name": "AMO_23/08",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/622056924faa73918bf8b3f1?",
+            "shortDescription": "AMO_23/08",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/6152f929778f6c10148b6995.png",
+            "stats": {
+              "currentValue": 11.15,
+              "totalReturns": -1.8499999999999996,
+              "currentReturns": -1.8499999999999996
+            },
+            "constituents": [
+              {
+                "ticker": "DHANBANK",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Thu Mar 31 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/62451b8a20dd3ecd690abf34?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Fri Apr 01 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/62466d0ab74dacacd8544ba8?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Sat Apr 02 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6247be890ddb5f91317c36e6?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Sun Apr 03 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/624910096bf6aa00ac6b02d0?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Mon Apr 04 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/624a618acb75ced0a312d176?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Tue Apr 05 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/624bb30c431cf5b20e8d0ca2?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Wed Apr 06 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/624d048cf4b30313dd296ccb?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Thu Apr 07 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/624e560a3341fb2e428b5d94?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Fri Apr 08 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/624fa78a251d85022c32d216?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Sat Apr 09 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6250f9090a5ad0db37ee1638?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Sun Apr 10 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/62524a896e6442aeb8b36937?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Mon Apr 11 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/62539c0a3341fb2e428bc0d3?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Tue Apr 12 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6254ed8a0ef73f2e3b542312?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Wed Apr 13 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/62563f0a7ceab407aa31dedc?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Thu Apr 14 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6257908ad629f253542766e4?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Fri Apr 15 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6258e20a5f573789284caa22?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Sat Apr 16 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/625a338983c13d7e4d59ed2a?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Sun Apr 17 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/625b8509d629f25354278ba6?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Mon Apr 18 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/625cd68b5b66b81fe32d7fe8?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Tue Apr 19 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/625e280983c13d7e4d5a272e?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Wed Apr 20 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/625f798983c13d7e4d5a457a?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Thu Apr 21 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6260cb0983c13d7e4d5a5fab?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Fri Apr 22 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/62621c8a8b96da06cb88da7d?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Sat Apr 23 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/62636e096f7d03e20e8336d3?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Sun Apr 24 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6264bf8921ec8e62e52c3e1b?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Mon Apr 25 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6266110aac434d62881e212d?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Tue Apr 26 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6267628a84e7665544de71c4?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Wed Apr 27 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6268b40af5d1ea10a960e516?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "626936bb0c52b82a01ec3bd4",
+            "name": "testAMOCancelSIP",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/626936c7f5d1ea10a960f660?",
+            "shortDescription": "testAMOCancelSIP",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/626936bb0c52b82a01ec3bd4.png",
+            "stats": {
+              "currentValue": 21,
+              "totalReturns": -2.3999999999999986,
+              "currentReturns": -2.3999999999999986
+            },
+            "constituents": [
+              {
+                "ticker": "YESBANK",
+                "shares": 1
+              },
+              {
+                "ticker": "IDEA",
+                "shares": 1
+              }
+            ]
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Thu Apr 28 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/626a058ad242c43d12410661?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Fri Apr 29 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/626b570ad5b5e8fe5d5d0e70?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Sat Apr 30 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/626ca889f68cd70cf486b101?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Sun May 01 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/626dfa0971328e44f8465ee0?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Mon May 02 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/626f4b890cff634a8199b055?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Tue May 03 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/62709d09e4b60d26fecaf4e8?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Wed May 04 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6271ee8bfa1a3d2d9eb714b1?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Thu May 05 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6273400ae82fed4a882cb6cb?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Fri May 06 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/62749189d1410d460237d82b?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "6274a9f880235a2b1d388e53",
+            "name": "New smallcase 2sd",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6274aa0e1e047946c37744ea?",
+            "shortDescription": "fs",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/6274a9f880235a2b1d388e53.png",
+            "stats": {
+              "currentValue": 105,
+              "totalReturns": -6.3999999999999915,
+              "currentReturns": -6.3999999999999915
+            },
+            "constituents": [
+              {
+                "ticker": "IDEA",
+                "shares": 5
+              },
+              {
+                "ticker": "YESBANK",
+                "shares": 5
+              }
+            ]
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Sat May 07 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6275e309915479e90137edb4?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Sun May 08 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/627734898bcefaf92c124a98?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Mon May 09 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6278860a915479e901380ad2?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Tue May 10 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6279d7898c6b59ff6f8c95f7?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Wed May 11 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/627b290a1216ecff9b64e5f2?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Thu May 12 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/627c7a8a166de0a7d3b6eac8?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Fri May 13 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/627dcc0a1916e5ecdc097d8f?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Sat May 14 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/627f1d891916e5ecdc0994bd?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Sun May 15 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/62806f091916e5ecdc09a04f?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Mon May 16 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6281c0891ca149ecd5df8708?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Tue May 17 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6283120ac1cf2bc886a25843?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Wed May 18 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6284638ac1cf2bc886a2751e?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Thu May 19 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6285b50ad456892567c0d657?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Fri May 20 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6287068a0b24ec27580bb9e0?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Sat May 21 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/62885809da2ad1ad3d100e5f?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Sun May 22 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6289a989b52928ad4424e9c9?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Mon May 23 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/628afb0ada2ad1ad3d104f27?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Tue May 24 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/628c4c8a41798329244eca1c?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Wed May 25 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/628d9e0a9fa3582923e2a55b?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Thu May 26 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/628eef8a8cc9ba28ee5af0f4?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Fri May 27 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6290410ab7972f2575d93cf6?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Sat May 28 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/62919289faecf4827f5c9d8a?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Sun May 29 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6292e409faecf4827f5cbf5a?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Mon May 30 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/62943589e45a9527bc54fd4a?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Tue May 31 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6295870a4bfd7025ac6664ec?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Wed Jun 01 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6296d88a0103b425a9489829?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "6297a785b4cfbe25f27c6bf4",
+            "name": "Test AMO 1 June",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6297a78b4e908f290c2b56df?",
+            "shortDescription": "Test",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/6297a785b4cfbe25f27c6bf4.png",
+            "stats": {
+              "currentValue": 285.36,
+              "totalReturns": -17.25,
+              "currentReturns": -17.25
+            },
+            "constituents": [
+              {
+                "ticker": "IDEA",
+                "shares": 16
+              },
+              {
+                "ticker": "ICICINXT50",
+                "shares": 4
+              }
+            ]
+          },
+          {
+            "scid": "6297a82ca33f7c290f694012",
+            "name": "TEST AMO 1 June 2",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6297a8314e908f290c2b56f3?",
+            "shortDescription": "TEST",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/6297a82ca33f7c290f694012.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Thu Jun 02 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/62982a0afb404629489c7425?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Fri Jun 03 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/62997b8a2a922d284a04e761?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "6299cc11ae0f65b587b1e794",
+            "name": "prodsiptest",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/6299cc2256e0312834b51db6?",
+            "shortDescription": "test",
+            "imageUrl": "https://cimg.smallcase.com/images/user/smallcases/200/6299cc11ae0f65b587b1e794.png",
+            "stats": {
+              "currentValue": 94.89999999999999,
+              "totalReturns": -8.450000000000017,
+              "currentReturns": -8.450000000000017
+            },
+            "constituents": [
+              {
+                "ticker": "IDEA",
+                "shares": 2
+              },
+              {
+                "ticker": "SUZLON",
+                "shares": 2
+              },
+              {
+                "ticker": "YESBANK",
+                "shares": 2
+              },
+              {
+                "ticker": "RPOWER",
+                "shares": 2
+              },
+              {
+                "ticker": "RCOM",
+                "shares": 1
+              },
+              {
+                "ticker": "SPTL",
+                "shares": 2
+              }
+            ]
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Sun Jun 05 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/629c1e89f640c0b16f92acc4?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Mon Jun 06 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/629d700927b83227f8ae3417?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Tue Jun 07 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/629ec18af640c0b16f92eadd?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Wed Jun 08 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/62a0130acc929025734100dd?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Thu Jun 09 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/62a1648aedfdb3266f6ebdfb?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Fri Jun 10 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/62a2b60ad8c48d27cb6c0b61?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Sat Jun 11 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/62a407893765e1ccac156307?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Sun Jun 12 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/62a55909406f7a58e00882c1?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Mon Jun 13 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/62a6aa8a28962e28cf8e7623?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Tue Jun 14 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/62a7fc0ac961ae27557efc2f?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Wed Jun 15 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/62a94d8b0564322741926470?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          },
+          {
+            "scid": "GATEMO_0001",
+            "name": "Test Order Flow",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/62a99a0b63e771d1d34bfa49?",
+            "shortDescription": "Test",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/GATEMO_0001.png",
+            "stats": {
+              "currentValue": 140.3,
+              "totalReturns": -8,
+              "currentReturns": -8
+            },
+            "constituents": [
+              {
+                "ticker": "BHEL",
+                "shares": 1
+              },
+              {
+                "ticker": "IDFC",
+                "shares": 1
+              },
+              {
+                "ticker": "J&KBANK",
+                "shares": 2
+              }
+            ]
+          },
+          {
+            "scid": "ADHOC",
+            "name": "Test Smallcase Thu Jun 16 2022",
+            "investmentDetailsURL": "https://smallcase.zerodha.com/details/62aa9f0bdb737128eaee3100?",
+            "imageUrl": "https://assets.smallcase.com/images/smallcases/200/ADHOC.png",
+            "stats": {
+              "currentValue": 0,
+              "totalReturns": 0,
+              "currentReturns": 0
+            },
+            "constituents": []
+          }
+        ],
+        "private": {
+          "investments": []
+        }
+      },
+      "securities": [
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 1364
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 1,
+          "nseTicker": "ADANIENT",
+          "bseTicker": "ADANIENT",
+          "isin": "INE423A01024",
+          "name": "Adani Enterprises Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 17,
+            "averagePrice": 12.7
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 17,
+          "smallcaseQuantity": 1,
+          "nseTicker": "ALANKIT",
+          "bseTicker": "ALANKIT",
+          "isin": "INE914E01040",
+          "name": "Alankit Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 22.8
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "ALOKINDS",
+          "bseTicker": "ALOKTEXT",
+          "isin": "INE270A01029",
+          "name": "Alok Industries Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 654.2
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "APLLTD",
+          "bseTicker": "APLLTD",
+          "isin": "INE901L01018",
+          "name": "Alembic Pharmaceuticals Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 7,
+            "averagePrice": 197
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 7,
+          "smallcaseQuantity": 0,
+          "nseTicker": "APOLLOTYRE",
+          "bseTicker": "APOLLOTYRE",
+          "isin": "INE438A01022",
+          "name": "Apollo Tyres Limited"
+        },
+        {
+          "holdings": {
+            "quantity": 2,
+            "averagePrice": 393.3
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 2,
+          "smallcaseQuantity": 0,
+          "nseTicker": "BAJAJCON",
+          "bseTicker": "BAJAJCON",
+          "isin": "INE933K01021",
+          "name": "Bajaj Consumer Care Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 3812
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "BAJAJ-AUTO",
+          "bseTicker": "BAJAJ-AUTO",
+          "isin": "INE917I01010",
+          "name": "Bajaj Auto Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 2,
+            "averagePrice": 173.4
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 2,
+          "smallcaseQuantity": 0,
+          "nseTicker": "BANCOINDIA",
+          "bseTicker": "BANCOINDIA",
+          "isin": "INE213C01025",
+          "name": "Banco Products (India) Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 10,
+            "averagePrice": 56.445
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 10,
+          "smallcaseQuantity": 1,
+          "nseTicker": "BHEL",
+          "bseTicker": "BHEL",
+          "isin": "INE257A01026",
+          "name": "Bharat Heavy Electricals Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 199.95
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "BLISSGVS",
+          "bseTicker": "BLISSGVS",
+          "isin": "INE416D01022",
+          "name": "Bliss GVS Pharma Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 22,
+            "averagePrice": 124.738636
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 22,
+          "smallcaseQuantity": 0,
+          "nseTicker": "BRIGADE",
+          "bseTicker": "BRIGADE",
+          "isin": "INE791I01019",
+          "name": "Brigade Enterprises Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 20,
+            "averagePrice": 17.0115
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 20,
+          "smallcaseQuantity": 0,
+          "nseTicker": "BSLNIFTY",
+          "bseTicker": "BSLNIFTY",
+          "isin": "INF209KB19D1",
+          "name": "Aditya BSL Nifty 50 ETF"
+        },
+        {
+          "holdings": {
+            "quantity": 7,
+            "averagePrice": 103.357143
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 7,
+          "smallcaseQuantity": 0,
+          "nseTicker": "BSOFT",
+          "bseTicker": "BSOFT",
+          "isin": "INE836A01035",
+          "name": "Birlasoft Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 385.5
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "ZYDUSLIFE",
+          "bseTicker": "ZYDUSLIFE",
+          "isin": "INE010B01027",
+          "name": "Zydus Lifesciences Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 15,
+            "averagePrice": 85.556667
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 15,
+          "smallcaseQuantity": 3,
+          "nseTicker": "CESC",
+          "bseTicker": "CESC",
+          "isin": "INE486A01021",
+          "name": "CESC Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 420.3
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "COFORGE",
+          "bseTicker": "COFORGE",
+          "isin": "INE591G01017",
+          "name": "Coforge Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 10,
+            "averagePrice": 1472.3
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 10,
+          "smallcaseQuantity": 4,
+          "nseTicker": "COLPAL",
+          "bseTicker": "COLPAL",
+          "isin": "INE259A01022",
+          "name": "Colgate-Palmolive (India) Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 4,
+            "averagePrice": 25.105
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 4,
+          "smallcaseQuantity": 4,
+          "nseTicker": "CPSEETF",
+          "bseTicker": "CPSEETF",
+          "isin": "INF457M01133",
+          "name": "CPSE ETF"
+        },
+        {
+          "holdings": {
+            "quantity": 2,
+            "averagePrice": 74.475
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 2,
+          "smallcaseQuantity": 0,
+          "nseTicker": "DAAWAT",
+          "bseTicker": "DAAWAT",
+          "isin": "INE818H01020",
+          "name": "LT Foods Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 2,
+            "averagePrice": 502.8
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 2,
+          "smallcaseQuantity": 0,
+          "nseTicker": "DABUR",
+          "bseTicker": "DABUR",
+          "isin": "INE016A01026",
+          "name": "Dabur India Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 2,
+            "averagePrice": 124.3
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 2,
+          "smallcaseQuantity": 0,
+          "nseTicker": "DEVYANI",
+          "bseTicker": "DEVYANI",
+          "isin": "INE872J01023",
+          "name": "Devyani International Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 636.8
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "DHANUKA",
+          "bseTicker": "DHANUKA",
+          "isin": "INE435G01025",
+          "name": "Dhanuka Agritech Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 564,
+            "averagePrice": 14.055142
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 564,
+          "smallcaseQuantity": 83,
+          "nseTicker": "DHANBANK",
+          "bseTicker": "DHANBANK",
+          "isin": "INE680A01011",
+          "name": "Dhanlaxmi Bank Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 3,
+            "averagePrice": 32.133333
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 3,
+          "smallcaseQuantity": 0,
+          "nseTicker": "DIVOPPBEES",
+          "bseTicker": null,
+          "isin": "INF204KA1MS3",
+          "name": "Nippon India Nifty Dividend Opportunities ETF"
+        },
+        {
+          "holdings": {
+            "quantity": 2,
+            "averagePrice": 178.45
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 2,
+          "smallcaseQuantity": 0,
+          "nseTicker": "DLF",
+          "bseTicker": "DLF",
+          "isin": "INE271C01023",
+          "name": "DLF Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 366.51
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "EMBASSY",
+          "bseTicker": "EMBASSY",
+          "isin": "INE041025011",
+          "name": "Embassy Office Parks REIT"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 163.85
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "EQUITAS",
+          "bseTicker": "EQUITAS",
+          "isin": "INE988K01017",
+          "name": "Equitas Holdings Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 2,
+            "averagePrice": 237.8
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 2,
+          "smallcaseQuantity": 0,
+          "nseTicker": "ESCORTS",
+          "bseTicker": "ESCORTS",
+          "isin": "INE042A01014",
+          "name": "Escorts Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 3,
+            "averagePrice": 3.1
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 3,
+          "smallcaseQuantity": 0,
+          "nseTicker": "FCSSOFT",
+          "bseTicker": "FCSSOFT",
+          "isin": "INE512B01022",
+          "name": "FCS Software Solutions Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 6.55
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 1,
+          "nseTicker": "FEL",
+          "bseTicker": "FEL",
+          "isin": "INE623B01027",
+          "name": "Future Enterprises Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 6,
+            "averagePrice": 138.5
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 6,
+          "smallcaseQuantity": 0,
+          "nseTicker": "GABRIEL",
+          "bseTicker": "GABRIEL",
+          "isin": "INE524A01029",
+          "name": "Gabriel India Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 4,
+            "averagePrice": 125.4875
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 4,
+          "smallcaseQuantity": 0,
+          "nseTicker": "GAIL",
+          "bseTicker": "GAIL",
+          "isin": "INE129A01019",
+          "name": "GAIL (India) Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 6,
+            "averagePrice": 369.433333
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 6,
+          "smallcaseQuantity": 0,
+          "nseTicker": "GESHIP",
+          "bseTicker": "GESHIP*",
+          "isin": "INE017A01032",
+          "name": "Great Eastern Shipping Company Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 2,
+            "averagePrice": 48.52
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 2,
+          "smallcaseQuantity": 0,
+          "nseTicker": "GILT5YBEES",
+          "bseTicker": null,
+          "isin": "INF204KC1030",
+          "name": "Nippon India ETF 5 Year Gilt"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 369.9
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "GODREJPROP",
+          "bseTicker": "GODREJPROP",
+          "isin": "INE484J01027",
+          "name": "Godrej Properties Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 116,
+            "averagePrice": 36.662741
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 116,
+          "smallcaseQuantity": 8,
+          "nseTicker": "GOLDBEES",
+          "bseTicker": "GOLDBEES",
+          "isin": "INF204KB17I5",
+          "name": "Nippon India Gold Bees ETF"
+        },
+        {
+          "holdings": {
+            "quantity": 5,
+            "averagePrice": 159.8
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 5,
+          "smallcaseQuantity": 0,
+          "nseTicker": "GREAVESCOT",
+          "bseTicker": "GREAVESCOT",
+          "isin": "INE224A01026",
+          "name": "Greaves Cotton Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 5,
+            "averagePrice": 1.6
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 5,
+          "smallcaseQuantity": 1,
+          "nseTicker": "GTLINFRA",
+          "bseTicker": "GTLINFRA",
+          "isin": "INE221H01019",
+          "name": "GTL Infrastructure Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 4,
+            "averagePrice": 170
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 4,
+          "smallcaseQuantity": 0,
+          "nseTicker": "GNFC",
+          "bseTicker": "GNFC",
+          "isin": "INE113A01013",
+          "name": "Gujarat Narmada Valley Fertilizers & Chemicals Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 2,
+            "averagePrice": 423.8
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 2,
+          "smallcaseQuantity": 0,
+          "nseTicker": "GUJALKALI",
+          "bseTicker": "GUJALKALI",
+          "isin": "INE186A01019",
+          "name": "Gujarat Alkalies And Chemicals Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 3,
+            "averagePrice": 702.166667
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 3,
+          "smallcaseQuantity": 0,
+          "nseTicker": "GUJGASLTD",
+          "bseTicker": "GUJGAS",
+          "isin": "INE844O01030",
+          "name": "Gujarat Gas Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 71,
+            "averagePrice": 22.052113
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 71,
+          "smallcaseQuantity": 71,
+          "nseTicker": "HATHWAY",
+          "bseTicker": "HATHWAY",
+          "isin": "INE982F01036",
+          "name": "Hathway Cable and Datacom Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 16,
+            "averagePrice": 1307.482813
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 16,
+          "smallcaseQuantity": 2,
+          "nseTicker": "HDFCBANK",
+          "bseTicker": "HDFCBANK",
+          "isin": "INE040A01034",
+          "name": "HDFC Bank Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 2,
+            "averagePrice": 404.7375
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 2,
+          "smallcaseQuantity": 0,
+          "nseTicker": "HERITGFOOD",
+          "bseTicker": "HERITGFOOD",
+          "isin": "INE978A01027",
+          "name": "Heritage Foods Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 4,
+            "averagePrice": 174.6625
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 4,
+          "smallcaseQuantity": 0,
+          "nseTicker": "HINDALCO",
+          "bseTicker": "HINDALCO",
+          "isin": "INE038A01020",
+          "name": "Hindalco Industries Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 2,
+            "averagePrice": 2351.4
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 2,
+          "smallcaseQuantity": 2,
+          "nseTicker": "HINDUNILVR",
+          "bseTicker": "HINDUNILVR",
+          "isin": "INE030A01027",
+          "name": "Hindustan Unilever Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 2,
+            "averagePrice": 358.99
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 2,
+          "smallcaseQuantity": 0,
+          "nseTicker": "HNGSNGBEES",
+          "bseTicker": "HNGSNGBEES",
+          "isin": "INF204KB19I1",
+          "name": "Nippon India Hang Seng Bees ETF"
+        },
+        {
+          "holdings": {
+            "quantity": 5,
+            "averagePrice": 90.85
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 5,
+          "smallcaseQuantity": 0,
+          "nseTicker": "IBREALEST",
+          "bseTicker": "IBREALEST",
+          "isin": "INE069I01010",
+          "name": "Indiabulls Real Estate Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 5,
+            "averagePrice": 23.636
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 5,
+          "smallcaseQuantity": 1,
+          "nseTicker": "ICICI500",
+          "bseTicker": "ICICI500",
+          "isin": "INF109KC1V59",
+          "name": "ICICI Prudential BSE 500 ETF"
+        },
+        {
+          "holdings": {
+            "quantity": 2,
+            "averagePrice": 353.13
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 2,
+          "smallcaseQuantity": 2,
+          "nseTicker": "ICICIBANKN",
+          "bseTicker": "ICICIBANKN",
+          "isin": "INF109KC1E27",
+          "name": "ICICI Prudential Nifty Bank ETF"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 1476.5
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "ICICIGI",
+          "bseTicker": "ICICIGI",
+          "isin": "INE765G01017",
+          "name": "ICICI Lombard General Insurance Company Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 8,
+            "averagePrice": 42.31
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 8,
+          "smallcaseQuantity": 8,
+          "nseTicker": "ICICIGOLD",
+          "bseTicker": "iGOLD",
+          "isin": "INF109KC1NT3",
+          "name": "ICICI Prudential Gold ETF"
+        },
+        {
+          "holdings": {
+            "quantity": 80,
+            "averagePrice": 1000
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 80,
+          "smallcaseQuantity": 0,
+          "nseTicker": "ICICILIQ",
+          "bseTicker": "ICICILIQ",
+          "isin": "INF109KC1KT9",
+          "name": "ICICI Prudential Liquid ETF"
+        },
+        {
+          "holdings": {
+            "quantity": 18,
+            "averagePrice": 134.557222
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 18,
+          "smallcaseQuantity": 9,
+          "nseTicker": "ICICILOVOL",
+          "bseTicker": "ICICILOVOL",
+          "isin": "INF109KB10T8",
+          "name": "ICICI Prudential Nifty 100 Low Vol 30 ETF"
+        },
+        {
+          "holdings": {
+            "quantity": 2,
+            "averagePrice": 96.03
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 2,
+          "smallcaseQuantity": 2,
+          "nseTicker": "ICICIMCAP",
+          "bseTicker": "ICICIMCAP",
+          "isin": "INF109KB1XT3",
+          "name": "ICICI Prudential Sensex Midcap Select ETF"
+        },
+        {
+          "holdings": {
+            "quantity": 8,
+            "averagePrice": 191.97625
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 8,
+          "smallcaseQuantity": 0,
+          "nseTicker": "ICICINF100",
+          "bseTicker": "ICICINF100",
+          "isin": "INF109KA1962",
+          "name": "ICICI Prudential Nifty 100 ETF"
+        },
+        {
+          "holdings": {
+            "quantity": 12,
+            "averagePrice": 185.205833
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 12,
+          "smallcaseQuantity": 5,
+          "nseTicker": "ICICINIFTY",
+          "bseTicker": "ICICINIFTY",
+          "isin": "INF109K012R6",
+          "name": "ICICI Prudential Nifty 50 ETF"
+        },
+        {
+          "holdings": {
+            "quantity": 17,
+            "averagePrice": 91.866471
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 17,
+          "smallcaseQuantity": 11,
+          "nseTicker": "ICICINV20",
+          "bseTicker": "ICICINV20",
+          "isin": "INF109KB1WY5",
+          "name": "ICICI Prudential NV20 ETF"
+        },
+        {
+          "holdings": {
+            "quantity": 110,
+            "averagePrice": 41.324455
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 110,
+          "smallcaseQuantity": 51,
+          "nseTicker": "ICICINXT50",
+          "bseTicker": "ICICINXT50",
+          "isin": "INF109KC1NS5",
+          "name": "ICICI Prudential Nifty Next 50 ETF"
+        },
+        {
+          "holdings": {
+            "quantity": 583,
+            "averagePrice": 9.984563
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 583,
+          "smallcaseQuantity": 261,
+          "nseTicker": "IDEA",
+          "bseTicker": "IDEA",
+          "isin": "INE669E01016",
+          "name": "Vodafone Idea Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 15,
+            "averagePrice": 56.796667
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 15,
+          "smallcaseQuantity": 1,
+          "nseTicker": "IDFC",
+          "bseTicker": "IDFC",
+          "isin": "INE043D01016",
+          "name": "IDFC Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 9,
+            "averagePrice": 45.75
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 9,
+          "smallcaseQuantity": 0,
+          "nseTicker": "IDFCFIRSTB",
+          "bseTicker": "IDFCFIRSTB",
+          "isin": "INE092T01019",
+          "name": "IDFC First Bank Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 12.05
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 1,
+          "nseTicker": "IFCI",
+          "bseTicker": "IFCI",
+          "isin": "INE039A01010",
+          "name": "IFCI Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 1938
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "INDIGO",
+          "bseTicker": "INDIGO",
+          "isin": "INE646L01027",
+          "name": "Interglobe Aviation Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 4,
+            "averagePrice": 1300.7875
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 4,
+          "smallcaseQuantity": 0,
+          "nseTicker": "INFY",
+          "bseTicker": "INFY",
+          "isin": "INE009A01021",
+          "name": "Infosys Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 2,
+            "averagePrice": 25.175
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 2,
+          "smallcaseQuantity": 0,
+          "nseTicker": "INOXWIND",
+          "bseTicker": "INOXWIND",
+          "isin": "INE066P01011",
+          "name": "Inox Wind Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 10,
+            "averagePrice": 19.355
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 10,
+          "smallcaseQuantity": 1,
+          "nseTicker": "IOB",
+          "bseTicker": "IOB",
+          "isin": "INE565A01014",
+          "name": "Indian Overseas Bank"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 101.9
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "IOC",
+          "bseTicker": "IOC",
+          "isin": "INE242A01010",
+          "name": "Indian Oil Corporation Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 39.85
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "IRCON",
+          "bseTicker": "IRCON",
+          "isin": "INE962Y01021",
+          "name": "Ircon International Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 31,
+            "averagePrice": 22.358065
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 31,
+          "smallcaseQuantity": 14,
+          "nseTicker": "IRFC",
+          "bseTicker": "IRFC",
+          "isin": "INE053F01010",
+          "name": "Indian Railway Finance Corp Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 3,
+            "averagePrice": 247.4
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 3,
+          "smallcaseQuantity": 0,
+          "nseTicker": "ITC",
+          "bseTicker": "ITC",
+          "isin": "INE154A01025",
+          "name": "ITC Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 11,
+            "averagePrice": 32.572727
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 11,
+          "smallcaseQuantity": 2,
+          "nseTicker": "J&KBANK",
+          "bseTicker": "J&KBANK",
+          "isin": "INE168A01041",
+          "name": "Jammu and Kashmir Bank Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 9,
+            "averagePrice": 81.5
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 9,
+          "smallcaseQuantity": 0,
+          "nseTicker": "JAMNAAUTO",
+          "bseTicker": "JAMNAAUTO",
+          "isin": "INE039C01032",
+          "name": "Jamna Auto Industries Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 69.1
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "JINDALSAW",
+          "bseTicker": "JINDALSAW",
+          "isin": "INE324A01024",
+          "name": "Jindal SAW Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 5,
+            "averagePrice": 76.35
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 5,
+          "smallcaseQuantity": 0,
+          "nseTicker": "JINDALSTEL",
+          "bseTicker": "JINDALSTEL",
+          "isin": "INE749A01030",
+          "name": "Jindal Steel And Power Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 44.85
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 1,
+          "nseTicker": "JISLJALEQS",
+          "bseTicker": "JISLJALEQS",
+          "isin": "INE175A01038",
+          "name": "Jain Irrigation Systems Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 77.4
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "JMFINANCIL",
+          "bseTicker": "JMFINANCIL",
+          "isin": "INE780C01023",
+          "name": "JM Financial Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 2,
+            "averagePrice": 7.3
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 2,
+          "smallcaseQuantity": 1,
+          "nseTicker": "JPPOWER",
+          "bseTicker": "JPPOWER",
+          "isin": "INE351F01018",
+          "name": "Jaiprakash Power Ventures Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 7,
+            "averagePrice": 12.664286
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 7,
+          "smallcaseQuantity": 0,
+          "nseTicker": "JSWISPL",
+          "bseTicker": "JSWISPL",
+          "isin": "INE743C01021",
+          "name": "JSW Ispat Special Products Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 10,
+            "averagePrice": 390.063
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 10,
+          "smallcaseQuantity": 0,
+          "nseTicker": "JUNIORBEES",
+          "bseTicker": "JUNIORBEES",
+          "isin": "INF732E01045",
+          "name": "Nippon India Junior Bees ETF"
+        },
+        {
+          "holdings": {
+            "quantity": 2,
+            "averagePrice": 18.4
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 2,
+          "smallcaseQuantity": 0,
+          "nseTicker": "KCPSUGIND",
+          "bseTicker": "KCPSUGIND",
+          "isin": "INE790B01024",
+          "name": "KCP Sugar and Industries Corp Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 3,
+            "averagePrice": 134.55
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 3,
+          "smallcaseQuantity": 0,
+          "nseTicker": "KOLTEPATIL",
+          "bseTicker": "KOLTEPATIL",
+          "isin": "INE094I01018",
+          "name": "Kolte-Patil Developers Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 12,
+            "averagePrice": 1428.875
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 12,
+          "smallcaseQuantity": 4,
+          "nseTicker": "KOTAKBANK",
+          "bseTicker": "KOTAKBANK",
+          "isin": "INE237A01028",
+          "name": "Kotak Mahindra Bank Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 2,
+            "averagePrice": 41.255
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 2,
+          "smallcaseQuantity": 2,
+          "nseTicker": "KOTAKGOLD",
+          "bseTicker": "KOTAKGOLD",
+          "isin": "INF174KA1HJ8",
+          "name": "Kotak Gold ETF"
+        },
+        {
+          "holdings": {
+            "quantity": 2,
+            "averagePrice": 418
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 2,
+          "smallcaseQuantity": 0,
+          "nseTicker": "KSCL",
+          "bseTicker": "KSCL",
+          "isin": "INE455I01029",
+          "name": "Kaveri Seed Company Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 1121.4
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "LALPATHLAB",
+          "bseTicker": "LALPATHLAB",
+          "isin": "INE600L01024",
+          "name": "Dr. Lal PathLabs Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 3095,
+            "averagePrice": 1000
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 3095,
+          "smallcaseQuantity": 0,
+          "nseTicker": "LIQUIDBEES",
+          "bseTicker": "LIQUIDBEES",
+          "isin": "INF732E01037",
+          "name": "Nippon India Liquid Bees ETF"
+        },
+        {
+          "holdings": {
+            "quantity": 68,
+            "averagePrice": 976.254487
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 68,
+          "smallcaseQuantity": 0,
+          "nseTicker": "LIQUIDETF",
+          "bseTicker": "LIQUIDETF",
+          "isin": "INF740KA1EU7",
+          "name": "DSP BlackRock Liquid ETF"
+        },
+        {
+          "holdings": {
+            "quantity": 2,
+            "averagePrice": 1237.3
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 2,
+          "smallcaseQuantity": 0,
+          "nseTicker": "LT",
+          "bseTicker": "LT",
+          "isin": "INE018A01030",
+          "name": "Larsen & Toubro Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 2,
+            "averagePrice": 320.6
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 2,
+          "smallcaseQuantity": 0,
+          "nseTicker": "M&MFIN",
+          "bseTicker": "M&MFIN",
+          "isin": "INE774D01024",
+          "name": "Mahindra and Mahindra Financial Services Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 241.8
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "MANXT50",
+          "bseTicker": "MANXT50ETF",
+          "isin": "INF769K01FN2",
+          "name": "Mirae Asset Nifty Next 50 ETF"
+        },
+        {
+          "holdings": {
+            "quantity": 2,
+            "averagePrice": 306.85
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 2,
+          "smallcaseQuantity": 0,
+          "nseTicker": "MARICO",
+          "bseTicker": "MARICO",
+          "isin": "INE196A01026",
+          "name": "Marico Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 28.99
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "MASPTOP50",
+          "bseTicker": "MASPTOP50",
+          "isin": "INF769K01HP3",
+          "name": "Mirae Asset S&P 500 Top 50 ETF"
+        },
+        {
+          "holdings": {
+            "quantity": 9,
+            "averagePrice": 84.861111
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 9,
+          "smallcaseQuantity": 0,
+          "nseTicker": "MHRIL",
+          "bseTicker": "MHRIL",
+          "isin": "INE998I01010",
+          "name": "Mahindra Holidays and Resorts India Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 161,
+            "averagePrice": 31.944286
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 161,
+          "smallcaseQuantity": 47,
+          "nseTicker": "MOM100",
+          "bseTicker": "MOM100",
+          "isin": "INF247L01023",
+          "name": "Motilal Oswal Nifty Midcap 100 ETF"
+        },
+        {
+          "holdings": {
+            "quantity": 145,
+            "averagePrice": 17.657241
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 145,
+          "smallcaseQuantity": 142,
+          "nseTicker": "MTNL",
+          "bseTicker": "MTNL",
+          "isin": "INE153A01019",
+          "name": "Mahanagar Telephone Nigam Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 51
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "CONSUMBEES",
+          "bseTicker": null,
+          "isin": "INF204KA1LD7",
+          "name": "Nippon India Nifty India Consumption ETF"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 28.08
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "ITBEES",
+          "bseTicker": null,
+          "isin": "INF204KB15V2",
+          "name": "Nippon India ETF Nifty IT"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 105.65
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "MID150BEES",
+          "bseTicker": null,
+          "isin": "INF204KB1V68",
+          "name": "Nippon India Nifty Midcap 150 ETF"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 86.78
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "NV20BEES",
+          "bseTicker": null,
+          "isin": "INF204KB18I3",
+          "name": "Nippon India NV20 ETF"
+        },
+        {
+          "holdings": {
+            "quantity": 41,
+            "averagePrice": 158.88722
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 41,
+          "smallcaseQuantity": 4,
+          "nseTicker": "NIFTYBEES",
+          "bseTicker": "NIFTYBEES",
+          "isin": "INF204KB14I2",
+          "name": "Nippon India Nifty 50 Bees ETF"
+        },
+        {
+          "holdings": {
+            "quantity": 8,
+            "averagePrice": 123.09375
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 8,
+          "smallcaseQuantity": 0,
+          "nseTicker": "NMDC",
+          "bseTicker": "NMDC",
+          "isin": "INE584A01023",
+          "name": "NMDC Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 4,
+            "averagePrice": 170
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 4,
+          "smallcaseQuantity": 0,
+          "nseTicker": "NRBBEARING",
+          "bseTicker": "NRBBEARING",
+          "isin": "INE349A01021",
+          "name": "NRB Bearings Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 88.5
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "NTPC",
+          "bseTicker": "NTPC",
+          "isin": "INE733E01010",
+          "name": "NTPC Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 67.3
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "ONGC",
+          "bseTicker": "ONGC",
+          "isin": "INE213A01029",
+          "name": "Oil and Natural Gas Corporation Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 6,
+            "averagePrice": 26.85
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 6,
+          "smallcaseQuantity": 5,
+          "nseTicker": "PCJEWELLER",
+          "bseTicker": "PCJEWELLER",
+          "isin": "INE785M01013",
+          "name": "PC Jeweller Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 2,
+            "averagePrice": 7
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 2,
+          "smallcaseQuantity": 0,
+          "nseTicker": "PENINLAND",
+          "bseTicker": "PENINLAND",
+          "isin": "INE138A01028",
+          "name": "Peninsula Land Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 355.6
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "PHOENIXLTD",
+          "bseTicker": "PHOENIXLTD",
+          "isin": "INE211B01039",
+          "name": "Phoenix Mills Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 18,
+            "averagePrice": 39.936111
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 18,
+          "smallcaseQuantity": 0,
+          "nseTicker": "PNB",
+          "bseTicker": "PNB",
+          "isin": "INE160A01022",
+          "name": "Punjab National Bank"
+        },
+        {
+          "holdings": {
+            "quantity": 2,
+            "averagePrice": 189.15
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 2,
+          "smallcaseQuantity": 0,
+          "nseTicker": "PRESTIGE",
+          "bseTicker": "PRESTIGE",
+          "isin": "INE811K01011",
+          "name": "Prestige Estates Projects Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 26.99
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "PSUBNKBEES",
+          "bseTicker": "PSUBNKBEES",
+          "isin": "INF204KB16I7",
+          "name": "Nippon India Nifty PSU Bank Bees ETF"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 90.05
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "RAILTEL",
+          "bseTicker": "RAILTEL",
+          "isin": "INE0DD101019",
+          "name": "Railtel Corporation of India Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 2,
+            "averagePrice": 40
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 2,
+          "smallcaseQuantity": 0,
+          "nseTicker": "RAJTV",
+          "bseTicker": "RAJTV",
+          "isin": "INE952H01027",
+          "name": "Raj Television Network Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 5,
+            "averagePrice": 2.59
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 5,
+          "smallcaseQuantity": 4,
+          "nseTicker": "RCOM",
+          "bseTicker": "RCOM",
+          "isin": "INE330H01018",
+          "name": "Reliance Communications Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 18,
+            "averagePrice": 56.905556
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 18,
+          "smallcaseQuantity": 0,
+          "nseTicker": "REDINGTON",
+          "bseTicker": "REDINGTON",
+          "isin": "INE891D01026",
+          "name": "Redington (India) Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 17,
+            "averagePrice": 1795.888235
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 17,
+          "smallcaseQuantity": 4,
+          "nseTicker": "RELIANCE",
+          "bseTicker": "RELIANCE",
+          "isin": "INE002A01018",
+          "name": "Reliance Industries Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 14,
+            "averagePrice": 11.55
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 14,
+          "smallcaseQuantity": 6,
+          "nseTicker": "RPOWER",
+          "bseTicker": "RPOWER",
+          "isin": "INE614G01033",
+          "name": "Reliance Power Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 18,
+            "averagePrice": 105.7
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 18,
+          "smallcaseQuantity": 0,
+          "nseTicker": "SETFNIF50",
+          "bseTicker": "SETFNIF50",
+          "isin": "INF200KA1FS1",
+          "name": "SBI Nifty 50 ETF"
+        },
+        {
+          "holdings": {
+            "quantity": 74,
+            "averagePrice": 28.119595
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 74,
+          "smallcaseQuantity": 45,
+          "nseTicker": "SJVN",
+          "bseTicker": "SJVN",
+          "isin": "INE002L01015",
+          "name": "SJVN Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 3,
+            "averagePrice": 399.483333
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 3,
+          "smallcaseQuantity": 0,
+          "nseTicker": "SOBHA",
+          "bseTicker": "SOBHA",
+          "isin": "INE671H01015",
+          "name": "Sobha Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 2,
+            "averagePrice": 405.4
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 2,
+          "smallcaseQuantity": 0,
+          "nseTicker": "SONATSOFTW",
+          "bseTicker": "SONATSOFTW",
+          "isin": "INE269A01021",
+          "name": "Sonata Software Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 73,
+            "averagePrice": 9.5
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 73,
+          "smallcaseQuantity": 73,
+          "nseTicker": "SOUTHBANK",
+          "bseTicker": "SOUTHBANK",
+          "isin": "INE683A01023",
+          "name": "South Indian Bank Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 3,
+            "averagePrice": 5.916667
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 3,
+          "smallcaseQuantity": 2,
+          "nseTicker": "SPTL",
+          "bseTicker": "SINTEXPLAST",
+          "isin": "INE501W01021",
+          "name": "Sintex Plastics Technology Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 8,
+            "averagePrice": 80.85
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 8,
+          "smallcaseQuantity": 0,
+          "nseTicker": "STLTECH",
+          "bseTicker": "STLTECH",
+          "isin": "INE089C01029",
+          "name": "Sterlite Technologies Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 2.75
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "SUPREMEENG",
+          "bseTicker": null,
+          "isin": "INE319Z01021",
+          "name": "Supreme Engineering Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 3,
+            "averagePrice": 914.4
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 3,
+          "smallcaseQuantity": 0,
+          "nseTicker": "SUPREMEIND",
+          "bseTicker": "SUPREMEIND",
+          "isin": "INE195A01028",
+          "name": "Supreme Industries Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 10,
+            "averagePrice": 73.271667
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 10,
+          "smallcaseQuantity": 0,
+          "nseTicker": "SUTLEJTEX",
+          "bseTicker": "SUTLEJTEX",
+          "isin": "INE645H01027",
+          "name": "Sutlej Textiles and Industries Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 501,
+            "averagePrice": 6.363074
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 501,
+          "smallcaseQuantity": 440,
+          "nseTicker": "SUZLON",
+          "bseTicker": "SUZLON",
+          "isin": "INE040H01021",
+          "name": "Suzlon Energy Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 526.75035
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "TATACHEM",
+          "bseTicker": "TATACHEM",
+          "isin": "INE092A01019",
+          "name": "Tata Chemicals Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 304.65
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 1,
+          "nseTicker": "TATAMOTORS",
+          "bseTicker": "TATAMOTORS",
+          "isin": "INE155A01022",
+          "name": "Tata Motors Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 3514.25
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "TCS",
+          "bseTicker": "TCS",
+          "isin": "INE467B01029",
+          "name": "Tata Consultancy Services Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 5,
+            "averagePrice": 568
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 5,
+          "smallcaseQuantity": 0,
+          "nseTicker": "TIMKEN",
+          "bseTicker": "TIMKEN",
+          "isin": "INE325A01013",
+          "name": "Timken India Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 2,
+            "averagePrice": 17.8
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 2,
+          "smallcaseQuantity": 0,
+          "nseTicker": "TRIDENT",
+          "bseTicker": "TRIDENT",
+          "isin": "INE064C01022",
+          "name": "Trident Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 139.05
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 6,
+          "nseTicker": "TTML",
+          "bseTicker": "TTML",
+          "isin": "INE517B01013",
+          "name": "Tata Teleservices (Maharashtra) Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 4,
+            "averagePrice": 2.8375
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 4,
+          "smallcaseQuantity": 3,
+          "nseTicker": "UNITECH",
+          "bseTicker": "UNITECH",
+          "isin": "INE694A01020",
+          "name": "Unitech Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 3,
+            "averagePrice": 436.583333
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 3,
+          "smallcaseQuantity": 0,
+          "nseTicker": "UPL",
+          "bseTicker": "UPL",
+          "isin": "INE628A01036",
+          "name": "UPL Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 5,
+            "averagePrice": 14.1
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 5,
+          "smallcaseQuantity": 0,
+          "nseTicker": "URJA",
+          "bseTicker": "URJAGLOBA",
+          "isin": "INE550C01020",
+          "name": "Urja Global Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 3,
+            "averagePrice": 238.983333
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 3,
+          "smallcaseQuantity": 0,
+          "nseTicker": "VEDL",
+          "bseTicker": "VEDL",
+          "isin": "INE205A01025",
+          "name": "Vedanta Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 19,
+            "averagePrice": 148.068421
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 19,
+          "smallcaseQuantity": 0,
+          "nseTicker": "VGUARD",
+          "bseTicker": "VGUARD",
+          "isin": "INE951I01027",
+          "name": "V Guard Industries Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 5.2
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 1,
+          "nseTicker": "VIKASECO",
+          "bseTicker": "VIKASECO",
+          "isin": "INE806A01020",
+          "name": "Vikas Ecotech Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 3,
+            "averagePrice": 144.4
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 3,
+          "smallcaseQuantity": 0,
+          "nseTicker": "VIMTALABS",
+          "bseTicker": "VIMTALABS",
+          "isin": "INE579C01029",
+          "name": "Vimta Labs Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 2,
+            "averagePrice": 70.775
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 2,
+          "smallcaseQuantity": 0,
+          "nseTicker": "WELSPUNIND",
+          "bseTicker": "WELSPUNIND",
+          "isin": "INE192B01031",
+          "name": "Welspun India Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 12,
+            "averagePrice": 274.755714
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 12,
+          "smallcaseQuantity": 12,
+          "nseTicker": "WIPRO",
+          "bseTicker": "WIPRO",
+          "isin": "INE075A01022",
+          "name": "Wipro Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 3,
+            "averagePrice": 345.283333
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 3,
+          "smallcaseQuantity": 0,
+          "nseTicker": "WSTCSTPAPR",
+          "bseTicker": "WSTCSTPAPR",
+          "isin": "INE976A01021",
+          "name": "West Coast Paper Mills Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 364,
+            "averagePrice": 13.330632
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 364,
+          "smallcaseQuantity": 161,
+          "nseTicker": "YESBANK",
+          "bseTicker": "YESBANK",
+          "isin": "INE528G01035",
+          "name": "Yes Bank Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 14.75
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 1,
+          "nseTicker": "ZEELEARN",
+          "bseTicker": "ZEELEARN",
+          "isin": "INE565L01011",
+          "name": "Zee Learn Ltd"
+        },
+        {
+          "holdings": {
+            "quantity": 1,
+            "averagePrice": 144.75
+          },
+          "positions": {
+            "nse": {
+              "quantity": 0,
+              "averagePrice": 0
+            },
+            "bse": {
+              "quantity": 0,
+              "averagePrice": 0
+            }
+          },
+          "transactableQuantity": 1,
+          "smallcaseQuantity": 0,
+          "nseTicker": "ZOMATO",
+          "bseTicker": "ZOMATO",
+          "isin": "INE758T01015",
+          "name": "Zomato Ltd"
+        }
+      ],
+      "updating": false,
+      "lastUpdate": "2022-06-17T01:23:57.915Z",
+      "snapshotDate": "2022-06-17T01:23:57.915Z",
+      "smallcaseAuthId": "support@smallcase.com",
+      "broker": "kite"
+    }
+  }

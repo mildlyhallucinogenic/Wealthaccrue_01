@@ -1,0 +1,8 @@
+Variant: profileUnitTest
+Config: debug
+Store: C:\Users\mayan\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 2B:EE:BF:80:35:0B:04:A1:C9:92:CB:0E:F7:CB:FF:42
+SHA1: C7:0B:88:B7:0C:08:21:12:D3:6D:69:F0:37:84:2A:0C:34:96:81:0F
+SHA-256: B2:12:B8:A2:33:80:F1:6A:78:CD:D2:08:34:E2:37:82:0C:9F:B2:B9:FB:FE:C4:46:2C:29:26:D5:34:53:31:2F
+Valid until: Sunday, 31 March, 2052

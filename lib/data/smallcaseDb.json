@@ -1,0 +1,44 @@
+{
+    "_id": 0,
+    "idno": "5d162d22656874583b00bf27",
+    "scid": "SCET_0010",
+    "name": "Top 100 Stocks",
+    "version": 12,
+    "shortDescription": "India's most powerful companies in one portfolio. Solid stability",
+    "type": "ETF",
+    "publisher": "smallcaseHQ",
+    "publisherName": "Windmill Capital",
+    "rebalanceSchedule": "quarterly",
+    "lastRebalanced": "2022-03-31T00:00:00.000Z",
+    "imageUrl": "https://assets.smallcase.com/images/smallcases/200/SCET_0010.png",
+    "daily": -0.001351853487786808,
+    "weekly": -0.007950363934328084,
+    "monthly": 0.000020303394922884473,
+    "quarterly": 0.028538973340936313,
+    "halfyearly": -0.07486192550436997,
+    "yearly": 0.02369913956949618,
+    "threeYear": 0.42748212994801,
+    "fiveYear": 0.42748212994801,
+    "sinceInception": 3.7046146453403357,
+    "sinceLaunch": 0,
+    "minInvestAmount": 1297,
+    "divYield": 0,
+    "smallCapPercentage": 0,
+    "midCapPercentage": 0,
+    "largeCapPercentage": 0,
+    "sharpeRatio": 1.9500903006808228,
+    "cagr": 0.13147007519913134,
+    "pe": 0.23727,
+    "riskLabel": "Medium Volatility",
+    "minSipAmount": 500,
+    "benchmarkId": ".NSEI",
+    "benchamarkIndex": ".NIFTY100",
+    "benchmarkLabel": "Equity Large Cap"
+}
+
+
+
+
+
+
+

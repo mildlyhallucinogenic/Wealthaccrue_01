@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>593491112080-dcdj76c14obrsfso572of5d2tne3rjha.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.593491112080-dcdj76c14obrsfso572of5d2tne3rjha</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCG0ih08yQ5RxOZ5rfZ7TwHiuES3LX7ltg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>593491112080</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>in.wealthaccrue.wealthaccrue</string>
+	<key>PROJECT_ID</key>
+	<string>wealth-accrue</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wealth-accrue.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:593491112080:ios:589fb4954f92c45964e815</string>
+</dict>
+</plist>

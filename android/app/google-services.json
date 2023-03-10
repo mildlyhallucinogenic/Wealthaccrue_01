@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "593491112080",
+    "project_id": "wealth-accrue",
+    "storage_bucket": "wealth-accrue.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593491112080:android:f59f7dd9456db7bc64e815",
+        "android_client_info": {
+          "package_name": "in.wealthaccrue.wealthaccrue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593491112080-lc3jcta0f75e09120nuf4jb5ec7hti5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.wealthaccrue.wealthaccrue",
+            "certificate_hash": "c70b88b70c082112d36d69f037842a0c3496810f"
+          }
+        },
+        {
+          "client_id": "593491112080-imk0m262k93sd5ut21suig3igoun6f1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn0LSBvQc00WuNayNgDlqWXwlW50ikcF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593491112080-imk0m262k93sd5ut21suig3igoun6f1u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "593491112080-dcdj76c14obrsfso572of5d2tne3rjha.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.wealthaccrue.wealthaccrue"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
