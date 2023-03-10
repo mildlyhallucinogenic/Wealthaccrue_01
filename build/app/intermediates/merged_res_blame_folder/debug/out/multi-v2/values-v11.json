@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\mayan\\Downloads\\Wealthaccrue\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-2\\files-2.1\\42121e836a3a80c4bf43e0ea4154ef8b\\jetified-mixpanel-android-5.9.6\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "596"
+                    }
+                }
+            ]
+        }
+    ]
+}

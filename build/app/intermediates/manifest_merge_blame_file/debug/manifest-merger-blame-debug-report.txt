@@ -1,0 +1,1029 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="in.wealthaccrue.wealthaccrue"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="29" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\debug\AndroidManifest.xml:6:5-66
+14-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\debug\AndroidManifest.xml:6:22-64
+15    <uses-permission android:name="android.permission.WAKE_LOCK" />
+15-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-68
+15-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-65
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-79
+16-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-76
+17
+18    <queries>
+18-->[:firebase_auth_oauth] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_auth_oauth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-15:15
+19        <intent>
+19-->[:firebase_auth_oauth] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_auth_oauth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-14:18
+20            <action android:name="android.intent.action.VIEW" />
+20-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:32:17-69
+20-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:32:25-66
+21
+22            <category android:name="android.intent.category.BROWSABLE" />
+22-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:33:17-78
+22-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:33:27-75
+23
+24            <data android:scheme="https" />
+24-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:35:17-39:19
+24-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:37:21-47
+25        </intent>
+26        <intent>
+26-->[:twitter_login] C:\Users\mayan\Downloads\Wealthaccrue\build\twitter_login\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-10:18
+27            <action android:name="android.support.customtabs.action.CustomTabsService" />
+27-->[:twitter_login] C:\Users\mayan\Downloads\Wealthaccrue\build\twitter_login\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-90
+27-->[:twitter_login] C:\Users\mayan\Downloads\Wealthaccrue\build\twitter_login\intermediates\library_manifest\debug\AndroidManifest.xml:9:21-87
+28        </intent>
+29    </queries>
+30
+31    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+31-->[:flutter_local_notifications] C:\Users\mayan\Downloads\Wealthaccrue\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-81
+31-->[:flutter_local_notifications] C:\Users\mayan\Downloads\Wealthaccrue\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-78
+32    <uses-permission android:name="android.permission.VIBRATE" />
+32-->[:flutter_local_notifications] C:\Users\mayan\Downloads\Wealthaccrue\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-66
+32-->[:flutter_local_notifications] C:\Users\mayan\Downloads\Wealthaccrue\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-63
+33    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
+33-->[:flutter_local_notifications] C:\Users\mayan\Downloads\Wealthaccrue\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-81
+33-->[:flutter_local_notifications] C:\Users\mayan\Downloads\Wealthaccrue\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-78
+34    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+34-->[:flutter_local_notifications] C:\Users\mayan\Downloads\Wealthaccrue\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-79
+34-->[:flutter_local_notifications] C:\Users\mayan\Downloads\Wealthaccrue\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-76
+35    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
+35-->[:local_auth_android] C:\Users\mayan\Downloads\Wealthaccrue\build\local_auth_android\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-74
+35-->[:local_auth_android] C:\Users\mayan\Downloads\Wealthaccrue\build\local_auth_android\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-71
+36    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+36-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:11:5-80
+36-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:11:22-77
+37    <uses-permission
+37-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:12:5-14:38
+38        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+38-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:13:9-65
+39        android:maxSdkVersion="28" />
+39-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:14:9-35
+40    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+40-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:15:5-71
+40-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:15:22-68
+41    <uses-permission
+41-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:16:5-18:35
+42        android:name="android.permission.CAMERA"
+42-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:17:9-49
+43        android:required="true" />
+43-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:18:9-32
+44
+45    <uses-feature
+45-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:20:5-22:35
+46        android:name="android.hardware.camera.any"
+46-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:21:9-51
+47        android:required="true" />
+47-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:22:9-32
+48    <uses-feature
+48-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:23:5-25:36
+49        android:name="android.hardware.telephony"
+49-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:24:9-50
+50        android:required="false" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+50-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:25:9-33
+51    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+51-->[com.google.firebase:firebase-messaging:23.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\bb60262209ff6607193fad84a7b70700\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:28:5-82
+51-->[com.google.firebase:firebase-messaging:23.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\bb60262209ff6607193fad84a7b70700\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:28:22-79
+52    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+52-->[com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\fe42d1c3d72651121ce2bae4789a202c\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:25:5-79
+52-->[com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\fe42d1c3d72651121ce2bae4789a202c\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:25:22-76
+53    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+53-->[androidx.biometric:biometric:1.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\7bbf854d6e9a6a032010e88cef8233c7\biometric-1.1.0\AndroidManifest.xml:24:5-72
+53-->[androidx.biometric:biometric:1.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\7bbf854d6e9a6a032010e88cef8233c7\biometric-1.1.0\AndroidManifest.xml:24:22-69
+54    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+54-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\1a3af439ea9d04cb9e903557282bb1c7\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:26:5-110
+54-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\1a3af439ea9d04cb9e903557282bb1c7\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:26:22-107
+55
+56    <application
+57        android:name="android.app.Application"
+57-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:5:9-42
+58        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+58-->[androidx.core:core:1.6.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\5ba3b03033a8ec86bbda65395b315124\core-1.6.0\AndroidManifest.xml:24:18-86
+59        android:debuggable="true"
+60        android:icon="@mipmap/ic_launcher"
+60-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:6:9-43
+61        android:label="WealthAccrue"
+61-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:4:9-37
+62        android:supportsRtl="true"
+62-->[com.facebook.android:facebook-login:13.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\c87a62a8393e1f76ea8413de1492aa8f\jetified-facebook-login-13.2.0\AndroidManifest.xml:28:18-44
+63        android:usesCleartextTraffic="true" >
+63-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\debug\AndroidManifest.xml:7:18-53
+64
+65        <!-- possibly other elements -->
+66        <activity
+66-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:7:9-28:20
+67            android:name="com.example.wealthaccrue.MainActivity"
+67-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:8:13-41
+68            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+68-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:12:13-163
+69            android:exported="true"
+69-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:9:13-36
+70            android:hardwareAccelerated="true"
+70-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:13:13-47
+71            android:launchMode="singleTop"
+71-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:10:13-43
+72            android:theme="@style/LaunchTheme"
+72-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:11:13-47
+73            android:usesCleartextTraffic="true"
+73-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:14:13-48
+74            android:windowSoftInputMode="adjustResize" >
+74-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:15:13-55
+75
+76            <!--
+77                 Specifies an Android theme to apply to this Activity as soon as
+78                 the Android process has started. This theme is visible to the user
+79                 while the Flutter UI initializes. After that, this theme continues
+80                 to determine the Window background behind the Flutter UI.
+81            -->
+82            <meta-data
+82-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:20:13-23:17
+83                android:name="io.flutter.embedding.android.NormalTheme"
+83-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:21:15-70
+84                android:resource="@style/NormalTheme" />
+84-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:22:15-52
+85
+86            <intent-filter>
+86-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:24:13-27:29
+87                <action android:name="android.intent.action.MAIN" />
+87-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:25:17-68
+87-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:25:25-66
+88
+89                <category android:name="android.intent.category.LAUNCHER" />
+89-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:26:17-76
+89-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:26:27-74
+90            </intent-filter>
+91        </activity>
+92        <activity
+92-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:29:9-41:20
+93            android:name="com.smallcase.gateway.screens.transaction.activity.TransactionProcessActivity"
+93-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:29:19-111
+94            android:exported="true"
+94-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:30:11-34
+95            android:launchMode="singleTask"
+95-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:66:13-44
+96            android:theme="@style/Theme.SmallcaseGateway" >
+96-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:67:13-58
+97            <intent-filter>
+97-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:31:13-40:29
+98                <action android:name="android.intent.action.VIEW" />
+98-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:32:17-69
+98-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:32:25-66
+99
+100                <category android:name="android.intent.category.BROWSABLE" />
+100-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:33:17-78
+100-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:33:27-75
+101                <category android:name="android.intent.category.DEFAULT" />
+101-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:34:17-76
+101-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:34:27-73
+102
+103                <data
+103-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:35:17-39:19
+104                    android:host="wealthaccrue"
+104-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:36:21-48
+105                    android:scheme="scgateway" />
+105-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:37:21-47
+106            </intent-filter>
+107        </activity>
+108        <activity
+108-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:43:9-54:20
+109            android:name="com.smallcase.gateway.screens.common.RedirectActivity"
+109-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:43:19-87
+110            android:exported="true"
+110-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:44:17-40
+111            android:launchMode="singleTask"
+111-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:62:13-44
+112            android:theme="@style/Theme.SmallcaseGateway" >
+112-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:63:13-58
+113            <intent-filter>
+113-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:45:13-53:29
+114                <action android:name="android.intent.action.VIEW" />
+114-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:32:17-69
+114-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:32:25-66
+115
+116                <category android:name="android.intent.category.BROWSABLE" />
+116-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:33:17-78
+116-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:33:27-75
+117                <category android:name="android.intent.category.DEFAULT" />
+117-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:34:17-76
+117-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:34:27-73
+118
+119                <data
+119-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:35:17-39:19
+120                    android:host="wealthaccrue"
+120-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:36:21-48
+121                    android:scheme="scgatewayredirect" />
+121-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:37:21-47
+122            </intent-filter>
+123        </activity>
+124        <!--
+125 Don't delete the meta-data below.
+126             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+127        -->
+128        <meta-data
+128-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:57:9-59:33
+129            android:name="flutterEmbedding"
+129-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:58:13-44
+130            android:value="2" />
+130-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:59:13-30
+131
+132        <service
+132-->[:firebase_database] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+133            android:name="com.google.firebase.components.ComponentDiscoveryService"
+133-->[:firebase_database] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+134            android:directBootAware="true"
+134-->[com.google.firebase:firebase-common:20.1.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\57103f20ff8992e0e24dbd0d328197d9\jetified-firebase-common-20.1.1\AndroidManifest.xml:35:13-43
+135            android:exported="false" >
+135-->[com.google.firebase:firebase-appcheck-safetynet:16.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\e653b921c0209347bd4a834e77cb07da\jetified-firebase-appcheck-safetynet-16.0.0\AndroidManifest.xml:27:13-37
+136            <meta-data
+136-->[:firebase_database] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+137                android:name="com.google.firebase.components:io.flutter.plugins.firebase.database.FlutterFirebaseAppRegistrar"
+137-->[:firebase_database] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-127
+138                android:value="com.google.firebase.components.ComponentRegistrar" />
+138-->[:firebase_database] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+139            <meta-data
+139-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:34:13-36:85
+140                android:name="com.google.firebase.components:io.flutter.plugins.firebase.messaging.FlutterFirebaseAppRegistrar"
+140-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:35:17-128
+141                android:value="com.google.firebase.components.ComponentRegistrar" />
+141-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:36:17-82
+142            <meta-data
+142-->[:firebase_app_check] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_app_check\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+143                android:name="com.google.firebase.components:io.flutter.plugins.firebase.appcheck.FlutterFirebaseAppRegistrar"
+143-->[:firebase_app_check] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_app_check\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-127
+144                android:value="com.google.firebase.components.ComponentRegistrar" />
+144-->[:firebase_app_check] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_app_check\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+145            <meta-data
+145-->[:firebase_crashlytics] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_crashlytics\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+146                android:name="com.google.firebase.components:io.flutter.plugins.firebase.crashlytics.FlutterFirebaseAppRegistrar"
+146-->[:firebase_crashlytics] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_crashlytics\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-130
+147                android:value="com.google.firebase.components.ComponentRegistrar" />
+147-->[:firebase_crashlytics] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_crashlytics\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+148            <meta-data
+148-->[:firebase_performance] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_performance\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-13:85
+149                android:name="com.google.firebase.components:io.flutter.plugins.firebase.performance.FlutterFirebaseAppRegistrar"
+149-->[:firebase_performance] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_performance\intermediates\library_manifest\debug\AndroidManifest.xml:12:17-130
+150                android:value="com.google.firebase.components.ComponentRegistrar" />
+150-->[:firebase_performance] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_performance\intermediates\library_manifest\debug\AndroidManifest.xml:13:17-82
+151            <meta-data
+151-->[:cloud_firestore] C:\Users\mayan\Downloads\Wealthaccrue\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+152                android:name="com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar"
+152-->[:cloud_firestore] C:\Users\mayan\Downloads\Wealthaccrue\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-134
+153                android:value="com.google.firebase.components.ComponentRegistrar" />
+153-->[:cloud_firestore] C:\Users\mayan\Downloads\Wealthaccrue\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+154            <meta-data
+154-->[:firebase_dynamic_links] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_dynamic_links\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-13:85
+155                android:name="com.google.firebase.components:io.flutter.plugins.firebase.dynamiclinks.FlutterFirebaseAppRegistrar"
+155-->[:firebase_dynamic_links] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_dynamic_links\intermediates\library_manifest\debug\AndroidManifest.xml:12:17-131
+156                android:value="com.google.firebase.components.ComponentRegistrar" />
+156-->[:firebase_dynamic_links] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_dynamic_links\intermediates\library_manifest\debug\AndroidManifest.xml:13:17-82
+157            <meta-data
+157-->[:cloud_functions] C:\Users\mayan\Downloads\Wealthaccrue\build\cloud_functions\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-14:85
+158                android:name="com.google.firebase.components:io.flutter.plugins.firebase.functions.FlutterFirebaseAppRegistrar"
+158-->[:cloud_functions] C:\Users\mayan\Downloads\Wealthaccrue\build\cloud_functions\intermediates\library_manifest\debug\AndroidManifest.xml:13:17-128
+159                android:value="com.google.firebase.components.ComponentRegistrar" />
+159-->[:cloud_functions] C:\Users\mayan\Downloads\Wealthaccrue\build\cloud_functions\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-82
+160            <meta-data
+160-->[:firebase_analytics] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:85
+161                android:name="com.google.firebase.components:io.flutter.plugins.firebase.analytics.FlutterFirebaseAppRegistrar"
+161-->[:firebase_analytics] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-128
+162                android:value="com.google.firebase.components.ComponentRegistrar" />
+162-->[:firebase_analytics] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-82
+163            <meta-data
+163-->[:firebase_auth] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+164                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
+164-->[:firebase_auth] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+165                android:value="com.google.firebase.components.ComponentRegistrar" />
+165-->[:firebase_auth] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+166            <meta-data
+166-->[:firebase_core] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+167                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
+167-->[:firebase_core] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+168                android:value="com.google.firebase.components.ComponentRegistrar" />
+168-->[:firebase_core] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+169            <meta-data
+169-->[com.google.firebase:firebase-appcheck-safetynet:16.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\e653b921c0209347bd4a834e77cb07da\jetified-firebase-appcheck-safetynet-16.0.0\AndroidManifest.xml:28:13-30:85
+170                android:name="com.google.firebase.components:com.google.firebase.appcheck.safetynet.FirebaseAppCheckSafetyNetRegistrar"
+170-->[com.google.firebase:firebase-appcheck-safetynet:16.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\e653b921c0209347bd4a834e77cb07da\jetified-firebase-appcheck-safetynet-16.0.0\AndroidManifest.xml:29:17-136
+171                android:value="com.google.firebase.components.ComponentRegistrar" />
+171-->[com.google.firebase:firebase-appcheck-safetynet:16.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\e653b921c0209347bd4a834e77cb07da\jetified-firebase-appcheck-safetynet-16.0.0\AndroidManifest.xml:30:17-82
+172            <meta-data
+172-->[com.google.firebase:firebase-perf:20.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\e7c3c514643fe41cdd8293b5e5ba348e\jetified-firebase-perf-20.1.0\AndroidManifest.xml:23:13-25:85
+173                android:name="com.google.firebase.components:com.google.firebase.perf.FirebasePerfRegistrar"
+173-->[com.google.firebase:firebase-perf:20.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\e7c3c514643fe41cdd8293b5e5ba348e\jetified-firebase-perf-20.1.0\AndroidManifest.xml:24:17-109
+174                android:value="com.google.firebase.components.ComponentRegistrar" />
+174-->[com.google.firebase:firebase-perf:20.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\e7c3c514643fe41cdd8293b5e5ba348e\jetified-firebase-perf-20.1.0\AndroidManifest.xml:25:17-82
+175            <meta-data
+175-->[com.google.firebase:firebase-functions:20.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\97c772cce5fe3dbc65a22bb92f466ffc\jetified-firebase-functions-20.1.0\AndroidManifest.xml:18:13-20:85
+176                android:name="com.google.firebase.components:com.google.firebase.functions.FunctionsRegistrar"
+176-->[com.google.firebase:firebase-functions:20.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\97c772cce5fe3dbc65a22bb92f466ffc\jetified-firebase-functions-20.1.0\AndroidManifest.xml:19:17-111
+177                android:value="com.google.firebase.components.ComponentRegistrar" />
+177-->[com.google.firebase:firebase-functions:20.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\97c772cce5fe3dbc65a22bb92f466ffc\jetified-firebase-functions-20.1.0\AndroidManifest.xml:20:17-82
+178            <meta-data
+178-->[com.google.firebase:firebase-appcheck-debug:16.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aaf0db178812731c3b3ab346104ee58d\jetified-firebase-appcheck-debug-16.0.0\AndroidManifest.xml:28:13-30:85
+179                android:name="com.google.firebase.components:com.google.firebase.appcheck.debug.FirebaseAppCheckDebugRegistrar"
+179-->[com.google.firebase:firebase-appcheck-debug:16.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aaf0db178812731c3b3ab346104ee58d\jetified-firebase-appcheck-debug-16.0.0\AndroidManifest.xml:29:17-128
+180                android:value="com.google.firebase.components.ComponentRegistrar" />
+180-->[com.google.firebase:firebase-appcheck-debug:16.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aaf0db178812731c3b3ab346104ee58d\jetified-firebase-appcheck-debug-16.0.0\AndroidManifest.xml:30:17-82
+181            <meta-data
+181-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\d762062ead9dba8773c7a67e0eca298c\jetified-firebase-auth-21.0.5\AndroidManifest.xml:67:13-69:85
+182                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+182-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\d762062ead9dba8773c7a67e0eca298c\jetified-firebase-auth-21.0.5\AndroidManifest.xml:68:17-109
+183                android:value="com.google.firebase.components.ComponentRegistrar" />
+183-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\d762062ead9dba8773c7a67e0eca298c\jetified-firebase-auth-21.0.5\AndroidManifest.xml:69:17-82
+184            <meta-data
+184-->[com.google.firebase:firebase-firestore:24.1.2] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aa63f043b0b0143b823723cc8b56af75\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:20:13-22:85
+185                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+185-->[com.google.firebase:firebase-firestore:24.1.2] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aa63f043b0b0143b823723cc8b56af75\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:21:17-111
+186                android:value="com.google.firebase.components.ComponentRegistrar" />
+186-->[com.google.firebase:firebase-firestore:24.1.2] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aa63f043b0b0143b823723cc8b56af75\jetified-firebase-firestore-24.1.2\AndroidManifest.xml:22:17-82
+187            <meta-data
+187-->[com.google.firebase:firebase-messaging:23.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\bb60262209ff6607193fad84a7b70700\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:55:13-57:85
+188                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+188-->[com.google.firebase:firebase-messaging:23.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\bb60262209ff6607193fad84a7b70700\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:56:17-119
+189                android:value="com.google.firebase.components.ComponentRegistrar" />
+189-->[com.google.firebase:firebase-messaging:23.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\bb60262209ff6607193fad84a7b70700\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:57:17-82
+190            <meta-data
+190-->[com.google.firebase:firebase-crashlytics:18.2.11] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\1f3e2bc3ab3b51d1c4e4b9c876e67727\jetified-firebase-crashlytics-18.2.11\AndroidManifest.xml:18:13-20:85
+191                android:name="com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar"
+191-->[com.google.firebase:firebase-crashlytics:18.2.11] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\1f3e2bc3ab3b51d1c4e4b9c876e67727\jetified-firebase-crashlytics-18.2.11\AndroidManifest.xml:19:17-115
+192                android:value="com.google.firebase.components.ComponentRegistrar" />
+192-->[com.google.firebase:firebase-crashlytics:18.2.11] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\1f3e2bc3ab3b51d1c4e4b9c876e67727\jetified-firebase-crashlytics-18.2.11\AndroidManifest.xml:20:17-82
+193            <meta-data
+193-->[com.google.firebase:firebase-dynamic-links:21.0.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\f021e57beea75b6dbdc7f446ab4a4719\jetified-firebase-dynamic-links-21.0.1\AndroidManifest.xml:27:13-29:85
+194                android:name="com.google.firebase.components:com.google.firebase.dynamiclinks.internal.FirebaseDynamicLinkRegistrar"
+194-->[com.google.firebase:firebase-dynamic-links:21.0.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\f021e57beea75b6dbdc7f446ab4a4719\jetified-firebase-dynamic-links-21.0.1\AndroidManifest.xml:28:17-133
+195                android:value="com.google.firebase.components.ComponentRegistrar" />
+195-->[com.google.firebase:firebase-dynamic-links:21.0.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\f021e57beea75b6dbdc7f446ab4a4719\jetified-firebase-dynamic-links-21.0.1\AndroidManifest.xml:29:17-82
+196            <meta-data
+196-->[com.google.firebase:firebase-database:20.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\b619fba4cf5a0392693d0b92ecf37ea5\jetified-firebase-database-20.0.5\AndroidManifest.xml:32:13-34:85
+197                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+197-->[com.google.firebase:firebase-database:20.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\b619fba4cf5a0392693d0b92ecf37ea5\jetified-firebase-database-20.0.5\AndroidManifest.xml:33:17-109
+198                android:value="com.google.firebase.components.ComponentRegistrar" />
+198-->[com.google.firebase:firebase-database:20.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\b619fba4cf5a0392693d0b92ecf37ea5\jetified-firebase-database-20.0.5\AndroidManifest.xml:34:17-82
+199            <meta-data
+199-->[com.google.firebase:firebase-appcheck:16.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\5298118ba3c9413e904360cea7771e9e\jetified-firebase-appcheck-16.0.0\AndroidManifest.xml:28:13-30:85
+200                android:name="com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar"
+200-->[com.google.firebase:firebase-appcheck:16.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\5298118ba3c9413e904360cea7771e9e\jetified-firebase-appcheck-16.0.0\AndroidManifest.xml:29:17-117
+201                android:value="com.google.firebase.components.ComponentRegistrar" />
+201-->[com.google.firebase:firebase-appcheck:16.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\5298118ba3c9413e904360cea7771e9e\jetified-firebase-appcheck-16.0.0\AndroidManifest.xml:30:17-82
+202            <meta-data
+202-->[com.google.firebase:firebase-datatransport:18.1.4] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\b069f687231da95cf9926e0de59e0630\jetified-firebase-datatransport-18.1.4\AndroidManifest.xml:28:13-30:85
+203                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+203-->[com.google.firebase:firebase-datatransport:18.1.4] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\b069f687231da95cf9926e0de59e0630\jetified-firebase-datatransport-18.1.4\AndroidManifest.xml:29:17-115
+204                android:value="com.google.firebase.components.ComponentRegistrar" />
+204-->[com.google.firebase:firebase-datatransport:18.1.4] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\b069f687231da95cf9926e0de59e0630\jetified-firebase-datatransport-18.1.4\AndroidManifest.xml:30:17-82
+205            <meta-data
+205-->[com.google.firebase:firebase-config:21.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\57ab1c89b9001f57981bc1cd394ef7b7\jetified-firebase-config-21.1.0\AndroidManifest.xml:32:13-34:85
+206                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar"
+206-->[com.google.firebase:firebase-config:21.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\57ab1c89b9001f57981bc1cd394ef7b7\jetified-firebase-config-21.1.0\AndroidManifest.xml:33:17-117
+207                android:value="com.google.firebase.components.ComponentRegistrar" />
+207-->[com.google.firebase:firebase-config:21.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\57ab1c89b9001f57981bc1cd394ef7b7\jetified-firebase-config-21.1.0\AndroidManifest.xml:34:17-82
+208            <meta-data
+208-->[com.google.firebase:firebase-iid:21.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\3c45b0aade0e34343ffef25d0787cb64\jetified-firebase-iid-21.1.0\AndroidManifest.xml:32:13-34:85
+209                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+209-->[com.google.firebase:firebase-iid:21.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\3c45b0aade0e34343ffef25d0787cb64\jetified-firebase-iid-21.1.0\AndroidManifest.xml:33:17-96
+210                android:value="com.google.firebase.components.ComponentRegistrar" />
+210-->[com.google.firebase:firebase-iid:21.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\3c45b0aade0e34343ffef25d0787cb64\jetified-firebase-iid-21.1.0\AndroidManifest.xml:34:17-82
+211            <meta-data
+211-->[com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\fe42d1c3d72651121ce2bae4789a202c\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:31:13-33:85
+212                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+212-->[com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\fe42d1c3d72651121ce2bae4789a202c\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:32:17-139
+213                android:value="com.google.firebase.components.ComponentRegistrar" />
+213-->[com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\fe42d1c3d72651121ce2bae4789a202c\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:33:17-82
+214            <meta-data
+214-->[com.google.firebase:firebase-installations:17.0.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\f2509c02c1bb2b440b549d830a4fca29\jetified-firebase-installations-17.0.1\AndroidManifest.xml:18:13-20:85
+215                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+215-->[com.google.firebase:firebase-installations:17.0.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\f2509c02c1bb2b440b549d830a4fca29\jetified-firebase-installations-17.0.1\AndroidManifest.xml:19:17-127
+216                android:value="com.google.firebase.components.ComponentRegistrar" />
+216-->[com.google.firebase:firebase-installations:17.0.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\f2509c02c1bb2b440b549d830a4fca29\jetified-firebase-installations-17.0.1\AndroidManifest.xml:20:17-82
+217            <meta-data
+217-->[com.google.firebase:firebase-abt:21.0.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\0309ee8a71ec8768f2aa92ab1174a095\jetified-firebase-abt-21.0.1\AndroidManifest.xml:13:13-15:85
+218                android:name="com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar"
+218-->[com.google.firebase:firebase-abt:21.0.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\0309ee8a71ec8768f2aa92ab1174a095\jetified-firebase-abt-21.0.1\AndroidManifest.xml:14:17-109
+219                android:value="com.google.firebase.components.ComponentRegistrar" />
+219-->[com.google.firebase:firebase-abt:21.0.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\0309ee8a71ec8768f2aa92ab1174a095\jetified-firebase-abt-21.0.1\AndroidManifest.xml:15:17-82
+220        </service>
+221        <service
+221-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-15:72
+222            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService"
+222-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-107
+223            android:exported="false"
+223-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
+224            android:permission="android.permission.BIND_JOB_SERVICE" />
+224-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-69
+225        <service
+225-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-22:19
+226            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService"
+226-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-97
+227            android:exported="false" >
+227-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-37
+228            <intent-filter>
+228-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-21:29
+229                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+229-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:20:17-78
+229-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:20:25-75
+230            </intent-filter>
+231        </service>
+232
+233        <receiver
+233-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-31:20
+234            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver"
+234-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:25:13-98
+235            android:exported="true"
+235-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:26:13-36
+236            android:permission="com.google.android.c2dm.permission.SEND" >
+236-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:27:13-73
+237            <intent-filter>
+237-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:28:13-30:29
+238                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+238-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:29:17-81
+238-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:29:25-78
+239            </intent-filter>
+240        </receiver>
+241
+242        <provider
+242-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:39:9-43:38
+243            android:name="io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider"
+243-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:40:13-102
+244            android:authorities="in.wealthaccrue.wealthaccrue.flutterfirebasemessaginginitprovider"
+244-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:41:13-88
+245            android:exported="false"
+245-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:42:13-37
+246            android:initOrder="99" />
+246-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:43:13-35
+247
+248        <receiver
+248-->[:flutter_local_notifications] C:\Users\mayan\Downloads\Wealthaccrue\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-15:40
+249            android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver"
+249-->[:flutter_local_notifications] C:\Users\mayan\Downloads\Wealthaccrue\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-97
+250            android:exported="false" />
+250-->[:flutter_local_notifications] C:\Users\mayan\Downloads\Wealthaccrue\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+251        <receiver
+251-->[:flutter_local_notifications] C:\Users\mayan\Downloads\Wealthaccrue\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-25:20
+252            android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver"
+252-->[:flutter_local_notifications] C:\Users\mayan\Downloads\Wealthaccrue\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-101
+253            android:exported="false" >
+253-->[:flutter_local_notifications] C:\Users\mayan\Downloads\Wealthaccrue\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-37
+254            <intent-filter>
+254-->[:flutter_local_notifications] C:\Users\mayan\Downloads\Wealthaccrue\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-24:29
+255                <action android:name="android.intent.action.BOOT_COMPLETED" />
+255-->[:flutter_local_notifications] C:\Users\mayan\Downloads\Wealthaccrue\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:20:17-79
+255-->[:flutter_local_notifications] C:\Users\mayan\Downloads\Wealthaccrue\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:20:25-76
+256                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+256-->[:flutter_local_notifications] C:\Users\mayan\Downloads\Wealthaccrue\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:21:17-84
+256-->[:flutter_local_notifications] C:\Users\mayan\Downloads\Wealthaccrue\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:21:25-81
+257                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+257-->[:flutter_local_notifications] C:\Users\mayan\Downloads\Wealthaccrue\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:22:17-82
+257-->[:flutter_local_notifications] C:\Users\mayan\Downloads\Wealthaccrue\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:22:25-79
+258                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+258-->[:flutter_local_notifications] C:\Users\mayan\Downloads\Wealthaccrue\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:23:17-82
+258-->[:flutter_local_notifications] C:\Users\mayan\Downloads\Wealthaccrue\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:23:25-79
+259            </intent-filter>
+260        </receiver>
+261
+262        <provider
+262-->[:share] C:\Users\mayan\Downloads\Wealthaccrue\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
+263            android:name="io.flutter.plugins.share.ShareFileProvider"
+263-->[:share] C:\Users\mayan\Downloads\Wealthaccrue\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-70
+264            android:authorities="in.wealthaccrue.wealthaccrue.flutter.share_provider"
+264-->[:share] C:\Users\mayan\Downloads\Wealthaccrue\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
+265            android:exported="false"
+265-->[:share] C:\Users\mayan\Downloads\Wealthaccrue\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
+266            android:grantUriPermissions="true" >
+266-->[:share] C:\Users\mayan\Downloads\Wealthaccrue\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
+267            <meta-data
+267-->[:share] C:\Users\mayan\Downloads\Wealthaccrue\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:68
+268                android:name="android.support.FILE_PROVIDER_PATHS"
+268-->[:share] C:\Users\mayan\Downloads\Wealthaccrue\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
+269                android:resource="@xml/flutter_share_file_paths" />
+269-->[:share] C:\Users\mayan\Downloads\Wealthaccrue\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-65
+270        </provider>
+271
+272        <activity
+272-->[:url_launcher_android] C:\Users\mayan\Downloads\Wealthaccrue\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:74
+273            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+273-->[:url_launcher_android] C:\Users\mayan\Downloads\Wealthaccrue\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-74
+274            android:exported="false"
+274-->[:url_launcher_android] C:\Users\mayan\Downloads\Wealthaccrue\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-37
+275            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+275-->[:url_launcher_android] C:\Users\mayan\Downloads\Wealthaccrue\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-71
+276        <activity android:name="com.maru.twitter_login.chrome_custom_tabs.ChromeCustomTabsActivity" />
+276-->[:twitter_login] C:\Users\mayan\Downloads\Wealthaccrue\build\twitter_login\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-103
+276-->[:twitter_login] C:\Users\mayan\Downloads\Wealthaccrue\build\twitter_login\intermediates\library_manifest\debug\AndroidManifest.xml:14:19-100
+277        <activity android:name="com.smallcase.gateway.screens.smallplug.activity.StandaloneWebViewActivity" />
+277-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:28:9-111
+277-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:28:19-108
+278        <activity
+278-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:29:9-32:61
+279            android:name="com.smallcase.gateway.screens.connect.activity.BrokerChooserActivity"
+279-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:30:13-96
+280            android:launchMode="singleTask"
+280-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:31:13-44
+281            android:theme="@style/Theme.SmallcaseGateway" />
+281-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:32:13-58
+282        <activity
+282-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:33:9-37:61
+283            android:name="com.smallcase.gateway.screens.smallplug.activity.SmallPlugActivity"
+283-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:34:13-94
+284            android:launchMode="singleTask"
+284-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:35:13-44
+285            android:screenOrientation="portrait"
+285-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:36:13-49
+286            android:theme="@style/Theme.SmallcaseGateway" />
+286-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:37:13-58
+287        <activity
+287-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:38:9-42:61
+288            android:name="com.smallcase.gateway.screens.leadgen.activity.FivePaisaPwaActivity"
+288-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:39:13-95
+289            android:launchMode="singleTask"
+289-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:40:13-44
+290            android:screenOrientation="portrait"
+290-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:41:13-49
+291            android:theme="@style/Theme.SmallcaseGateway" />
+291-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:42:13-58
+292        <activity android:name="com.smallcase.gateway.screens.common.GenericWebViewActivity" />
+292-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:43:9-96
+292-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:43:19-93
+293        <activity
+293-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:44:9-47:61
+294            android:name="com.smallcase.gateway.screens.common.LogoutRedirectActivity"
+294-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:45:13-87
+295            android:launchMode="singleTask"
+295-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:46:13-44
+296            android:theme="@style/Theme.SmallcaseGateway" />
+296-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:47:13-58
+297        <activity
+297-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:48:9-51:61
+298            android:name="com.smallcase.gateway.screens.common.ComplianceDialogActivity"
+298-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:49:13-89
+299            android:launchMode="singleTask"
+299-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:50:13-44
+300            android:theme="@style/Theme.SmallcaseGateway" />
+300-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:51:13-58
+301        <activity
+301-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:52:9-55:61
+302            android:name="com.smallcase.gateway.screens.leadgen.activity.LeadGenActivity"
+302-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:53:13-90
+303            android:launchMode="singleTask"
+303-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:54:13-44
+304            android:theme="@style/Theme.SmallcaseGateway" />
+304-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:55:13-58
+305        <activity
+305-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:56:9-59:61
+306            android:name="com.smallcase.gateway.screens.connect.activity.ConnectedConsentActivity"
+306-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:57:13-99
+307            android:launchMode="singleTask"
+307-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:58:13-44
+308            android:theme="@style/Theme.SmallcaseGateway" />
+308-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:59:13-58
+309        <activity
+309-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:68:9-71:61
+310            android:name="com.smallcase.gateway.screens.connect.activity.ConnectActivity"
+310-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:69:13-90
+311            android:launchMode="singleTask"
+311-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:70:13-44
+312            android:theme="@style/Theme.SmallcaseGateway" />
+312-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:71:13-58
+313        <activity
+313-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:72:9-75:61
+314            android:name="com.smallcase.gateway.screens.leadgen.activity.CustomCameraActivity"
+314-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:73:13-95
+315            android:launchMode="singleTask"
+315-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:74:13-44
+316            android:theme="@style/Theme.SmallcaseGateway" />
+316-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:75:13-58
+317
+318        <meta-data
+318-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:77:9-79:96
+319            android:name="io.sentry.dsn"
+319-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:78:13-41
+320            android:value="https://cb6d671ecfc24f9cbd41f746e019ce2c@sentry.smallcase.com/49" />
+320-->[com.smallcase.gateway:sdk:3.1.21] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\aca47360cc43579a83b38153336d6588\jetified-sdk-3.1.21\AndroidManifest.xml:79:13-93
+321
+322        <uses-library
+322-->[androidx.window:window:1.0.0-beta04] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\20e57e8a6717dad528760c4cbf2d21d6\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+323            android:name="androidx.window.extensions"
+323-->[androidx.window:window:1.0.0-beta04] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\20e57e8a6717dad528760c4cbf2d21d6\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+324            android:required="false" />
+324-->[androidx.window:window:1.0.0-beta04] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\20e57e8a6717dad528760c4cbf2d21d6\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+325        <uses-library
+325-->[androidx.window:window:1.0.0-beta04] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\20e57e8a6717dad528760c4cbf2d21d6\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+326            android:name="androidx.window.sidecar"
+326-->[androidx.window:window:1.0.0-beta04] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\20e57e8a6717dad528760c4cbf2d21d6\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+327            android:required="false" />
+327-->[androidx.window:window:1.0.0-beta04] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\20e57e8a6717dad528760c4cbf2d21d6\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+328
+329        <provider
+329-->[io.coil-kt:coil:0.8.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\e98b7a4f09dda2d627d55133b86368fe\jetified-coil-0.8.0\AndroidManifest.xml:10:9-13:40
+330            android:name="coil.util.CoilContentProvider"
+330-->[io.coil-kt:coil:0.8.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\e98b7a4f09dda2d627d55133b86368fe\jetified-coil-0.8.0\AndroidManifest.xml:11:13-57
+331            android:authorities="in.wealthaccrue.wealthaccrue.coil"
+331-->[io.coil-kt:coil:0.8.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\e98b7a4f09dda2d627d55133b86368fe\jetified-coil-0.8.0\AndroidManifest.xml:12:13-56
+332            android:exported="false" />
+332-->[io.coil-kt:coil:0.8.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\e98b7a4f09dda2d627d55133b86368fe\jetified-coil-0.8.0\AndroidManifest.xml:13:13-37
+333        <provider
+333-->[com.google.firebase:firebase-perf:20.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\e7c3c514643fe41cdd8293b5e5ba348e\jetified-firebase-perf-20.1.0\AndroidManifest.xml:14:9-18:39
+334            android:name="com.google.firebase.perf.provider.FirebasePerfProvider"
+334-->[com.google.firebase:firebase-perf:20.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\e7c3c514643fe41cdd8293b5e5ba348e\jetified-firebase-perf-20.1.0\AndroidManifest.xml:15:13-82
+335            android:authorities="in.wealthaccrue.wealthaccrue.firebaseperfprovider"
+335-->[com.google.firebase:firebase-perf:20.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\e7c3c514643fe41cdd8293b5e5ba348e\jetified-firebase-perf-20.1.0\AndroidManifest.xml:16:13-72
+336            android:exported="false"
+336-->[com.google.firebase:firebase-perf:20.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\e7c3c514643fe41cdd8293b5e5ba348e\jetified-firebase-perf-20.1.0\AndroidManifest.xml:17:13-37
+337            android:initOrder="101" />
+337-->[com.google.firebase:firebase-perf:20.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\e7c3c514643fe41cdd8293b5e5ba348e\jetified-firebase-perf-20.1.0\AndroidManifest.xml:18:13-36
+338
+339        <activity
+339-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\d762062ead9dba8773c7a67e0eca298c\jetified-firebase-auth-21.0.5\AndroidManifest.xml:27:9-44:20
+340            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+340-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\d762062ead9dba8773c7a67e0eca298c\jetified-firebase-auth-21.0.5\AndroidManifest.xml:28:13-80
+341            android:excludeFromRecents="true"
+341-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\d762062ead9dba8773c7a67e0eca298c\jetified-firebase-auth-21.0.5\AndroidManifest.xml:29:13-46
+342            android:exported="true"
+342-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\d762062ead9dba8773c7a67e0eca298c\jetified-firebase-auth-21.0.5\AndroidManifest.xml:30:13-36
+343            android:launchMode="singleTask"
+343-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\d762062ead9dba8773c7a67e0eca298c\jetified-firebase-auth-21.0.5\AndroidManifest.xml:31:13-44
+344            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+344-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\d762062ead9dba8773c7a67e0eca298c\jetified-firebase-auth-21.0.5\AndroidManifest.xml:32:13-72
+345            <intent-filter>
+345-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\d762062ead9dba8773c7a67e0eca298c\jetified-firebase-auth-21.0.5\AndroidManifest.xml:33:13-43:29
+346                <action android:name="android.intent.action.VIEW" />
+346-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:32:17-69
+346-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:32:25-66
+347
+348                <category android:name="android.intent.category.DEFAULT" />
+348-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:34:17-76
+348-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:34:27-73
+349                <category android:name="android.intent.category.BROWSABLE" />
+349-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:33:17-78
+349-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:33:27-75
+350
+351                <data
+351-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:35:17-39:19
+352                    android:host="firebase.auth"
+352-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:36:21-48
+353                    android:path="/"
+354                    android:scheme="genericidp" />
+354-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:37:21-47
+355            </intent-filter>
+356        </activity>
+357        <activity
+357-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\d762062ead9dba8773c7a67e0eca298c\jetified-firebase-auth-21.0.5\AndroidManifest.xml:45:9-62:20
+358            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+358-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\d762062ead9dba8773c7a67e0eca298c\jetified-firebase-auth-21.0.5\AndroidManifest.xml:46:13-79
+359            android:excludeFromRecents="true"
+359-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\d762062ead9dba8773c7a67e0eca298c\jetified-firebase-auth-21.0.5\AndroidManifest.xml:47:13-46
+360            android:exported="true"
+360-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\d762062ead9dba8773c7a67e0eca298c\jetified-firebase-auth-21.0.5\AndroidManifest.xml:48:13-36
+361            android:launchMode="singleTask"
+361-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\d762062ead9dba8773c7a67e0eca298c\jetified-firebase-auth-21.0.5\AndroidManifest.xml:49:13-44
+362            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+362-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\d762062ead9dba8773c7a67e0eca298c\jetified-firebase-auth-21.0.5\AndroidManifest.xml:50:13-72
+363            <intent-filter>
+363-->[com.google.firebase:firebase-auth:21.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\d762062ead9dba8773c7a67e0eca298c\jetified-firebase-auth-21.0.5\AndroidManifest.xml:51:13-61:29
+364                <action android:name="android.intent.action.VIEW" />
+364-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:32:17-69
+364-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:32:25-66
+365
+366                <category android:name="android.intent.category.DEFAULT" />
+366-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:34:17-76
+366-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:34:27-73
+367                <category android:name="android.intent.category.BROWSABLE" />
+367-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:33:17-78
+367-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:33:27-75
+368
+369                <data
+369-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:35:17-39:19
+370                    android:host="firebase.auth"
+370-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:36:21-48
+371                    android:path="/"
+372                    android:scheme="recaptcha" />
+372-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:37:21-47
+373            </intent-filter>
+374        </activity>
+375
+376        <receiver
+376-->[com.google.firebase:firebase-messaging:23.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\bb60262209ff6607193fad84a7b70700\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:31:9-38:20
+377            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+377-->[com.google.firebase:firebase-messaging:23.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\bb60262209ff6607193fad84a7b70700\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:32:13-78
+378            android:exported="true"
+378-->[com.google.firebase:firebase-messaging:23.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\bb60262209ff6607193fad84a7b70700\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:33:13-36
+379            android:permission="com.google.android.c2dm.permission.SEND" >
+379-->[com.google.firebase:firebase-messaging:23.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\bb60262209ff6607193fad84a7b70700\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:34:13-73
+380            <intent-filter>
+380-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:28:13-30:29
+381                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+381-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:29:17-81
+381-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:29:25-78
+382            </intent-filter>
+383        </receiver>
+384        <!--
+385             FirebaseMessagingService performs security checks at runtime,
+386             but set to not exported to explicitly avoid allowing another app to call it.
+387        -->
+388        <service
+388-->[com.google.firebase:firebase-messaging:23.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\bb60262209ff6607193fad84a7b70700\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:44:9-51:19
+389            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+389-->[com.google.firebase:firebase-messaging:23.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\bb60262209ff6607193fad84a7b70700\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:45:13-82
+390            android:directBootAware="true"
+390-->[com.google.firebase:firebase-messaging:23.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\bb60262209ff6607193fad84a7b70700\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:46:13-43
+391            android:exported="false" >
+391-->[com.google.firebase:firebase-messaging:23.0.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\bb60262209ff6607193fad84a7b70700\jetified-firebase-messaging-23.0.5\AndroidManifest.xml:47:13-37
+392            <intent-filter android:priority="-500" >
+392-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-21:29
+393                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+393-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:20:17-78
+393-->[:firebase_messaging] C:\Users\mayan\Downloads\Wealthaccrue\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:20:25-75
+394            </intent-filter>
+395        </service>
+396
+397        <provider
+397-->[com.google.firebase:firebase-common:20.1.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\57103f20ff8992e0e24dbd0d328197d9\jetified-firebase-common-20.1.1\AndroidManifest.xml:26:9-31:39
+398            android:name="com.google.firebase.provider.FirebaseInitProvider"
+398-->[com.google.firebase:firebase-common:20.1.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\57103f20ff8992e0e24dbd0d328197d9\jetified-firebase-common-20.1.1\AndroidManifest.xml:27:13-77
+399            android:authorities="in.wealthaccrue.wealthaccrue.firebaseinitprovider"
+399-->[com.google.firebase:firebase-common:20.1.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\57103f20ff8992e0e24dbd0d328197d9\jetified-firebase-common-20.1.1\AndroidManifest.xml:28:13-72
+400            android:directBootAware="true"
+400-->[com.google.firebase:firebase-common:20.1.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\57103f20ff8992e0e24dbd0d328197d9\jetified-firebase-common-20.1.1\AndroidManifest.xml:29:13-43
+401            android:exported="false"
+401-->[com.google.firebase:firebase-common:20.1.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\57103f20ff8992e0e24dbd0d328197d9\jetified-firebase-common-20.1.1\AndroidManifest.xml:30:13-37
+402            android:initOrder="100" />
+402-->[com.google.firebase:firebase-common:20.1.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\57103f20ff8992e0e24dbd0d328197d9\jetified-firebase-common-20.1.1\AndroidManifest.xml:31:13-36
+403
+404        <activity
+404-->[com.facebook.android:facebook-common:13.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\7758580b5d07da4a6bc228063a2f7556\jetified-facebook-common-13.2.0\AndroidManifest.xml:30:9-33:66
+405            android:name="com.facebook.FacebookActivity"
+405-->[com.facebook.android:facebook-common:13.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\7758580b5d07da4a6bc228063a2f7556\jetified-facebook-common-13.2.0\AndroidManifest.xml:31:13-57
+406            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+406-->[com.facebook.android:facebook-common:13.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\7758580b5d07da4a6bc228063a2f7556\jetified-facebook-common-13.2.0\AndroidManifest.xml:32:13-96
+407            android:theme="@style/com_facebook_activity_theme" />
+407-->[com.facebook.android:facebook-common:13.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\7758580b5d07da4a6bc228063a2f7556\jetified-facebook-common-13.2.0\AndroidManifest.xml:33:13-63
+408        <activity android:name="com.facebook.CustomTabMainActivity" />
+408-->[com.facebook.android:facebook-common:13.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\7758580b5d07da4a6bc228063a2f7556\jetified-facebook-common-13.2.0\AndroidManifest.xml:34:9-71
+408-->[com.facebook.android:facebook-common:13.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\7758580b5d07da4a6bc228063a2f7556\jetified-facebook-common-13.2.0\AndroidManifest.xml:34:19-68
+409        <activity
+409-->[com.facebook.android:facebook-common:13.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\7758580b5d07da4a6bc228063a2f7556\jetified-facebook-common-13.2.0\AndroidManifest.xml:35:9-49:20
+410            android:name="com.facebook.CustomTabActivity"
+410-->[com.facebook.android:facebook-common:13.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\7758580b5d07da4a6bc228063a2f7556\jetified-facebook-common-13.2.0\AndroidManifest.xml:36:13-58
+411            android:exported="true" >
+411-->[com.facebook.android:facebook-common:13.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\7758580b5d07da4a6bc228063a2f7556\jetified-facebook-common-13.2.0\AndroidManifest.xml:37:13-36
+412            <intent-filter>
+412-->[com.facebook.android:facebook-common:13.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\7758580b5d07da4a6bc228063a2f7556\jetified-facebook-common-13.2.0\AndroidManifest.xml:39:13-48:29
+413                <action android:name="android.intent.action.VIEW" />
+413-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:32:17-69
+413-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:32:25-66
+414
+415                <category android:name="android.intent.category.DEFAULT" />
+415-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:34:17-76
+415-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:34:27-73
+416                <category android:name="android.intent.category.BROWSABLE" />
+416-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:33:17-78
+416-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:33:27-75
+417
+418                <data
+418-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:35:17-39:19
+419                    android:host="cct.in.wealthaccrue.wealthaccrue"
+419-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:36:21-48
+420                    android:scheme="fbconnect" />
+420-->C:\Users\mayan\Downloads\Wealthaccrue\android\app\src\main\AndroidManifest.xml:37:21-47
+421            </intent-filter>
+422        </activity>
+423        <activity
+423-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\cdb0fae68572432f2c6a6bcde5013494\jetified-play-services-auth-20.1.0\AndroidManifest.xml:23:9-27:75
+424            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+424-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\cdb0fae68572432f2c6a6bcde5013494\jetified-play-services-auth-20.1.0\AndroidManifest.xml:24:13-93
+425            android:excludeFromRecents="true"
+425-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\cdb0fae68572432f2c6a6bcde5013494\jetified-play-services-auth-20.1.0\AndroidManifest.xml:25:13-46
+426            android:exported="false"
+426-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\cdb0fae68572432f2c6a6bcde5013494\jetified-play-services-auth-20.1.0\AndroidManifest.xml:26:13-37
+427            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+427-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\cdb0fae68572432f2c6a6bcde5013494\jetified-play-services-auth-20.1.0\AndroidManifest.xml:27:13-72
+428        <!--
+429            Service handling Google Sign-In user revocation. For apps that do not integrate with
+430            Google Sign-In, this service will never be started.
+431        -->
+432        <service
+432-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\cdb0fae68572432f2c6a6bcde5013494\jetified-play-services-auth-20.1.0\AndroidManifest.xml:33:9-37:51
+433            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+433-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\cdb0fae68572432f2c6a6bcde5013494\jetified-play-services-auth-20.1.0\AndroidManifest.xml:34:13-89
+434            android:exported="true"
+434-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\cdb0fae68572432f2c6a6bcde5013494\jetified-play-services-auth-20.1.0\AndroidManifest.xml:35:13-36
+435            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+435-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\cdb0fae68572432f2c6a6bcde5013494\jetified-play-services-auth-20.1.0\AndroidManifest.xml:36:13-107
+436            android:visibleToInstantApps="true" />
+436-->[com.google.android.gms:play-services-auth:20.1.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\cdb0fae68572432f2c6a6bcde5013494\jetified-play-services-auth-20.1.0\AndroidManifest.xml:37:13-48
+437
+438        <activity
+438-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\ffb8c8269363c1aaaf4ce7fb7ddab989\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+439            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+439-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\ffb8c8269363c1aaaf4ce7fb7ddab989\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+440            android:exported="false"
+440-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\ffb8c8269363c1aaaf4ce7fb7ddab989\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+441            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+441-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\ffb8c8269363c1aaaf4ce7fb7ddab989\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+442
+443        <receiver
+443-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\1a3af439ea9d04cb9e903557282bb1c7\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:29:9-33:20
+444            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+444-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\1a3af439ea9d04cb9e903557282bb1c7\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:30:13-85
+445            android:enabled="true"
+445-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\1a3af439ea9d04cb9e903557282bb1c7\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:31:13-35
+446            android:exported="false" >
+446-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\1a3af439ea9d04cb9e903557282bb1c7\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:32:13-37
+447        </receiver>
+448
+449        <service
+449-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\1a3af439ea9d04cb9e903557282bb1c7\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:35:9-38:40
+450            android:name="com.google.android.gms.measurement.AppMeasurementService"
+450-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\1a3af439ea9d04cb9e903557282bb1c7\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:36:13-84
+451            android:enabled="true"
+451-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\1a3af439ea9d04cb9e903557282bb1c7\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:37:13-35
+452            android:exported="false" />
+452-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\1a3af439ea9d04cb9e903557282bb1c7\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:38:13-37
+453        <service
+453-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\1a3af439ea9d04cb9e903557282bb1c7\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:39:9-43:72
+454            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+454-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\1a3af439ea9d04cb9e903557282bb1c7\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:40:13-87
+455            android:enabled="true"
+455-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\1a3af439ea9d04cb9e903557282bb1c7\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:41:13-35
+456            android:exported="false"
+456-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\1a3af439ea9d04cb9e903557282bb1c7\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:42:13-37
+457            android:permission="android.permission.BIND_JOB_SERVICE" />
+457-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\1a3af439ea9d04cb9e903557282bb1c7\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:43:13-69
+458
+459        <meta-data
+459-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\ce5d12599c1bb9b61a64a197a663e5b1\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+460            android:name="com.google.android.gms.version"
+460-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\ce5d12599c1bb9b61a64a197a663e5b1\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+461            android:value="@integer/google_play_services_version" />
+461-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\ce5d12599c1bb9b61a64a197a663e5b1\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+462        <!--
+463         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+464         with the application context. This config is merged in with the host app's manifest,
+465         but there can only be one provider with the same authority activated at any given
+466         point; so if the end user has two or more different apps that use Facebook SDK, only the
+467         first one will be able to use the provider. To work around this problem, we use the
+468         following placeholder in the authority to identify each host application as if it was
+469         a completely different provider.
+470        -->
+471        <provider
+471-->[com.facebook.android:facebook-core:13.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\6a705c13009daddbf21b4d7cf796d470\jetified-facebook-core-13.2.0\AndroidManifest.xml:41:9-44:40
+472            android:name="com.facebook.internal.FacebookInitProvider"
+472-->[com.facebook.android:facebook-core:13.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\6a705c13009daddbf21b4d7cf796d470\jetified-facebook-core-13.2.0\AndroidManifest.xml:42:13-70
+473            android:authorities="in.wealthaccrue.wealthaccrue.FacebookInitProvider"
+473-->[com.facebook.android:facebook-core:13.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\6a705c13009daddbf21b4d7cf796d470\jetified-facebook-core-13.2.0\AndroidManifest.xml:43:13-72
+474            android:exported="false" />
+474-->[com.facebook.android:facebook-core:13.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\6a705c13009daddbf21b4d7cf796d470\jetified-facebook-core-13.2.0\AndroidManifest.xml:44:13-37
+475
+476        <receiver
+476-->[com.facebook.android:facebook-core:13.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\6a705c13009daddbf21b4d7cf796d470\jetified-facebook-core-13.2.0\AndroidManifest.xml:46:9-52:20
+477            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+477-->[com.facebook.android:facebook-core:13.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\6a705c13009daddbf21b4d7cf796d470\jetified-facebook-core-13.2.0\AndroidManifest.xml:47:13-86
+478            android:exported="false" >
+478-->[com.facebook.android:facebook-core:13.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\6a705c13009daddbf21b4d7cf796d470\jetified-facebook-core-13.2.0\AndroidManifest.xml:48:13-37
+479            <intent-filter>
+479-->[com.facebook.android:facebook-core:13.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\6a705c13009daddbf21b4d7cf796d470\jetified-facebook-core-13.2.0\AndroidManifest.xml:49:13-51:29
+480                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+480-->[com.facebook.android:facebook-core:13.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\6a705c13009daddbf21b4d7cf796d470\jetified-facebook-core-13.2.0\AndroidManifest.xml:50:17-95
+480-->[com.facebook.android:facebook-core:13.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\6a705c13009daddbf21b4d7cf796d470\jetified-facebook-core-13.2.0\AndroidManifest.xml:50:25-92
+481            </intent-filter>
+482        </receiver>
+483        <receiver
+483-->[com.facebook.android:facebook-core:13.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\6a705c13009daddbf21b4d7cf796d470\jetified-facebook-core-13.2.0\AndroidManifest.xml:53:9-59:20
+484            android:name="com.facebook.AuthenticationTokenManager$CurrentAuthenticationTokenChangedBroadcastReceiver"
+484-->[com.facebook.android:facebook-core:13.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\6a705c13009daddbf21b4d7cf796d470\jetified-facebook-core-13.2.0\AndroidManifest.xml:54:13-118
+485            android:exported="false" >
+485-->[com.facebook.android:facebook-core:13.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\6a705c13009daddbf21b4d7cf796d470\jetified-facebook-core-13.2.0\AndroidManifest.xml:55:13-37
+486            <intent-filter>
+486-->[com.facebook.android:facebook-core:13.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\6a705c13009daddbf21b4d7cf796d470\jetified-facebook-core-13.2.0\AndroidManifest.xml:56:13-58:29
+487                <action android:name="com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED" />
+487-->[com.facebook.android:facebook-core:13.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\6a705c13009daddbf21b4d7cf796d470\jetified-facebook-core-13.2.0\AndroidManifest.xml:57:17-103
+487-->[com.facebook.android:facebook-core:13.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\6a705c13009daddbf21b4d7cf796d470\jetified-facebook-core-13.2.0\AndroidManifest.xml:57:25-100
+488            </intent-filter>
+489        </receiver> <!-- 'android:authorities' must be unique in the device, across all apps -->
+490        <provider
+490-->[io.sentry:sentry-android-core:5.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\05aa9da8823e9e0d1ebdbe970e05929c\jetified-sentry-android-core-5.0.0\AndroidManifest.xml:14:9-17:40
+491            android:name="io.sentry.android.core.SentryInitProvider"
+491-->[io.sentry:sentry-android-core:5.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\05aa9da8823e9e0d1ebdbe970e05929c\jetified-sentry-android-core-5.0.0\AndroidManifest.xml:15:13-69
+492            android:authorities="in.wealthaccrue.wealthaccrue.SentryInitProvider"
+492-->[io.sentry:sentry-android-core:5.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\05aa9da8823e9e0d1ebdbe970e05929c\jetified-sentry-android-core-5.0.0\AndroidManifest.xml:16:13-70
+493            android:exported="false" />
+493-->[io.sentry:sentry-android-core:5.0.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\05aa9da8823e9e0d1ebdbe970e05929c\jetified-sentry-android-core-5.0.0\AndroidManifest.xml:17:13-37
+494
+495        <service
+495-->[com.google.android.datatransport:transport-backend-cct:3.1.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\de508f21921cca885c64de3a224a4976\jetified-transport-backend-cct-3.1.5\AndroidManifest.xml:29:9-35:19
+496            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+496-->[com.google.android.datatransport:transport-backend-cct:3.1.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\de508f21921cca885c64de3a224a4976\jetified-transport-backend-cct-3.1.5\AndroidManifest.xml:30:13-103
+497            android:exported="false" >
+497-->[com.google.android.datatransport:transport-backend-cct:3.1.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\de508f21921cca885c64de3a224a4976\jetified-transport-backend-cct-3.1.5\AndroidManifest.xml:31:13-37
+498            <meta-data
+498-->[com.google.android.datatransport:transport-backend-cct:3.1.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\de508f21921cca885c64de3a224a4976\jetified-transport-backend-cct-3.1.5\AndroidManifest.xml:32:13-34:39
+499                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+499-->[com.google.android.datatransport:transport-backend-cct:3.1.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\de508f21921cca885c64de3a224a4976\jetified-transport-backend-cct-3.1.5\AndroidManifest.xml:33:17-94
+500                android:value="cct" />
+500-->[com.google.android.datatransport:transport-backend-cct:3.1.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\de508f21921cca885c64de3a224a4976\jetified-transport-backend-cct-3.1.5\AndroidManifest.xml:34:17-36
+501        </service>
+502        <service
+502-->[com.google.android.datatransport:transport-runtime:3.1.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\f67a1093d4bb7282c49cdbd7919218b1\jetified-transport-runtime-3.1.5\AndroidManifest.xml:26:9-30:19
+503            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+503-->[com.google.android.datatransport:transport-runtime:3.1.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\f67a1093d4bb7282c49cdbd7919218b1\jetified-transport-runtime-3.1.5\AndroidManifest.xml:27:13-117
+504            android:exported="false"
+504-->[com.google.android.datatransport:transport-runtime:3.1.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\f67a1093d4bb7282c49cdbd7919218b1\jetified-transport-runtime-3.1.5\AndroidManifest.xml:28:13-37
+505            android:permission="android.permission.BIND_JOB_SERVICE" >
+505-->[com.google.android.datatransport:transport-runtime:3.1.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\f67a1093d4bb7282c49cdbd7919218b1\jetified-transport-runtime-3.1.5\AndroidManifest.xml:29:13-69
+506        </service>
+507
+508        <receiver
+508-->[com.google.android.datatransport:transport-runtime:3.1.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\f67a1093d4bb7282c49cdbd7919218b1\jetified-transport-runtime-3.1.5\AndroidManifest.xml:32:9-34:40
+509            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+509-->[com.google.android.datatransport:transport-runtime:3.1.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\f67a1093d4bb7282c49cdbd7919218b1\jetified-transport-runtime-3.1.5\AndroidManifest.xml:33:13-132
+510            android:exported="false" />
+510-->[com.google.android.datatransport:transport-runtime:3.1.5] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\f67a1093d4bb7282c49cdbd7919218b1\jetified-transport-runtime-3.1.5\AndroidManifest.xml:34:13-37
+511
+512        <provider
+512-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\16c2e477fa04f76ab12382dfbe4598c2\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+513            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+513-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\16c2e477fa04f76ab12382dfbe4598c2\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+514            android:authorities="in.wealthaccrue.wealthaccrue.lifecycle-process"
+514-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\16c2e477fa04f76ab12382dfbe4598c2\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+515            android:exported="false"
+515-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\16c2e477fa04f76ab12382dfbe4598c2\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+516            android:multiprocess="true" />
+516-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\16c2e477fa04f76ab12382dfbe4598c2\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+517        <!--
+518             The Mixpanel library will automatically attempt to show available in
+519             app notifications every time a new Activity is displayed. To disable this behavior,
+520             add the following line. The default value for this option is set to true.
+521        -->
+522        <!--
+523        <meta-data android:name="com.mixpanel.android.MPConfig.AutoShowMixpanelUpdates"
+524            android:value="false" />
+525        -->
+526        <!--
+527             Set this option to true if you wish for in-app notifications to be displayed without
+528             being tracked by Mixpanel. This is useful for testing the integration with your Android app.
+529             The default value is false.
+530        -->
+531        <!--
+532        <meta-data android:name="com.mixpanel.android.MPConfig.TestMode"
+533            android:value="true" />
+534        -->
+535        <!--
+536             Set the following option to true if you wish to see the debug output from the Mixpanel Android
+537             library. This may be useful in determining when track calls go out or in-app notifications
+538             are fetched. The default value is false.
+539        -->
+540        <!--
+541        <meta-data android:name="com.mixpanel.android.MPConfig.EnableDebugLogging"
+542            android:value="true" />
+543        -->
+544        <!--
+545             This activity allows your application to show Mixpanel takeover in-app notifications.
+546             If you only wish to show mini in-app notifications, you do not need to declare this Activity.
+547             You may also specify a different theme to better fit the look and feel of your application.
+548        -->
+549        <!--
+550        <activity android:name="com.mixpanel.android.takeoverinapp.TakeoverInAppActivity"
+551                  android:theme="@style/com_mixpanel_android_TakeoverInAppActivityTheme" />
+552        -->
+553        <!-- This service will allow your application to register for and receive Mixpanel push notifications. -->
+554        <!--
+555        <service
+556            android:name="com.mixpanel.android.mpmetrics.MixpanelFCMMessagingService"
+557            android:enabled="true"
+558            android:exported="false">
+559            <intent-filter>
+560                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+561            </intent-filter>
+562        </service>
+563        -->
+564        <!-- This activity will allow your application to make tracking calls to the MixpanelAPI for notification interactions -->
+565        <activity
+565-->[com.mixpanel.android:mixpanel-android:5.9.6] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\42121e836a3a80c4bf43e0ea4154ef8b\jetified-mixpanel-android-5.9.6\AndroidManifest.xml:75:9-77:40
+566            android:name="com.mixpanel.android.mpmetrics.MixpanelNotificationRouteActivity"
+566-->[com.mixpanel.android:mixpanel-android:5.9.6] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\42121e836a3a80c4bf43e0ea4154ef8b\jetified-mixpanel-android-5.9.6\AndroidManifest.xml:76:13-92
+567            android:exported="false" />
+567-->[com.mixpanel.android:mixpanel-android:5.9.6] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\42121e836a3a80c4bf43e0ea4154ef8b\jetified-mixpanel-android-5.9.6\AndroidManifest.xml:77:13-37
+568
+569        <receiver android:name="com.mixpanel.android.mpmetrics.MixpanelPushNotificationDismissedReceiver" />
+569-->[com.mixpanel.android:mixpanel-android:5.9.6] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\42121e836a3a80c4bf43e0ea4154ef8b\jetified-mixpanel-android-5.9.6\AndroidManifest.xml:79:9-109
+569-->[com.mixpanel.android:mixpanel-android:5.9.6] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\42121e836a3a80c4bf43e0ea4154ef8b\jetified-mixpanel-android-5.9.6\AndroidManifest.xml:79:19-106
+570
+571        <uses-library
+571-->[com.mixpanel.android:mixpanel-android:5.9.6] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\42121e836a3a80c4bf43e0ea4154ef8b\jetified-mixpanel-android-5.9.6\AndroidManifest.xml:81:9-83:40
+572            android:name="android.test.runner"
+572-->[com.mixpanel.android:mixpanel-android:5.9.6] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\42121e836a3a80c4bf43e0ea4154ef8b\jetified-mixpanel-android-5.9.6\AndroidManifest.xml:82:13-47
+573            android:required="false" />
+573-->[com.mixpanel.android:mixpanel-android:5.9.6] C:\Users\mayan\.gradle\caches\transforms-2\files-2.1\42121e836a3a80c4bf43e0ea4154ef8b\jetified-mixpanel-android-5.9.6\AndroidManifest.xml:83:13-37
+574    </application>
+575
+576</manifest>

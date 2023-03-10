@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">593491112080-imk0m262k93sd5ut21suig3igoun6f1u.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">593491112080</string>
+    <string name="google_api_key" translatable="false">AIzaSyDn0LSBvQc00WuNayNgDlqWXwlW50ikcF0</string>
+    <string name="google_app_id" translatable="false">1:593491112080:android:f59f7dd9456db7bc64e815</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDn0LSBvQc00WuNayNgDlqWXwlW50ikcF0</string>
+    <string name="google_storage_bucket" translatable="false">wealth-accrue.appspot.com</string>
+    <string name="project_id" translatable="false">wealth-accrue</string>
+</resources>

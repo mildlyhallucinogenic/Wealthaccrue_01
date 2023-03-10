@@ -1,0 +1,2 @@
+com/example/scgateway_flutter_plugin/BuildConfig.java
+ com.example.scgateway_flutter_plugin.BuildConfig

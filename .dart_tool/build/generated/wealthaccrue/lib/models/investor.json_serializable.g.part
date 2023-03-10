@@ -1,0 +1,26 @@
+// **************************************************************************
+// JsonSerializableGenerator
+// **************************************************************************
+
+Investor _$InvestorFromJson(Map<String, dynamic> json) => Investor(
+      name: json['name'] as String?,
+      email: json['email'] as String?,
+      phone: json['phone'] as String?,
+      dob: json['dob'] as String?,
+      uid: json['uid'] as String?,
+      lockPin: json['lockPin'] as String?,
+      isFingerprintAuthenticated:
+          json['isFingerprintAuthenticated'] as bool? ?? false,
+      isDarkTheme: json['isDarkTheme'] as bool?,
+    );
+
+Map<String, dynamic> _$InvestorToJson(Investor instance) => <String, dynamic>{
+      'uid': instance.uid,
+      'name': instance.name,
+      'email': instance.email,
+      'phone': instance.phone,
+      'dob': instance.dob,
+      'lockPin': instance.lockPin,
+      'isFingerprintAuthenticated': instance.isFingerprintAuthenticated,
+      'isDarkTheme': instance.isDarkTheme,
+    };

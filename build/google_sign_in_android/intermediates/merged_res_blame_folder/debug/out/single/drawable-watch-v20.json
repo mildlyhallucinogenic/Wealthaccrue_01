@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\mayan\\Downloads\\Wealthaccrue\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-2\\files-2.1\\9d530f1563be57692a1d3cb5244daca5\\jetified-play-services-auth-20.0.1\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\mayan\\Downloads\\Wealthaccrue\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-2\\files-2.1\\9d530f1563be57692a1d3cb5244daca5\\jetified-play-services-auth-20.0.1\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\mayan\\Downloads\\Wealthaccrue\\build\\google_sign_in_android\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\mayan\\.gradle\\caches\\transforms-2\\files-2.1\\9d530f1563be57692a1d3cb5244daca5\\jetified-play-services-auth-20.0.1\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    }
+]
